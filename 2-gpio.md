@@ -1,11 +1,14 @@
 #GPIO
 
-General Purpose Input Output (GPIO) es el sistema que tiene la Raspberry para usarlo como entradas y salidas de uso general. En la imagen puedes ver los GPIO:
+General Purpose Input Output (GPIO) es el sistema que tiene la Raspberry para usarlo como entradas y salidas de uso general, los marcados como naranjas: 
 
-<iframe src="https://giphy.com/embed/MIZRZ162NJe5G" width="335" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/raspberry-MIZRZ162NJe5G">via GIPHY</a></p>
+![](https://docs.microsoft.com/en-us/windows/iot-core/media/pinmappingsrpi/rp2_pinout.png)
+
+Su gran ventaja con respecto al Arduino es la cantidad de pines GPIO que están disponibles junto con la posibilidad de programar diréctamente en la raspberry,  pero su desventaja es que no pueden leer entradas analógicas, para ello hay que usar un componente exterior o un Arduino.
 
 ##Tensiones
-Están diseñados para 3.3V **NO conectes componentes de 5V o de lo contrario ESTROPEARÁS LA RASPBERRY DE FORMA IRREVERSIBLE**
+Están diseñados para 3.3V **NO conectes componentes de 5V o de lo contrario ESTROPEARÁS LA RASPBERRY DE FORMA IRREVERSIBLE** debido a que todos los pines están **sin protección** de buffer.
+
 <iframe src="https://giphy.com/embed/wWT7Clw42FKXC" width="480" height="198" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/short-circuit-movie-ouch-wWT7Clw42FKXC">via GIPHY</a></p>
 
 ##Corrientes
