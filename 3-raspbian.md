@@ -11,3 +11,7 @@ A la hora de descargarlo lo descomprimimos, y aparecerá un fichero imagen prepa
 >Ojo: Si tenemos problemas a la hora de descomprimir, prueba usar un compresor [7zip](http://www.7-zip.org/download.html) tal y como dice la imagen anterior marcado con una elipse.
 
 El fichero imagen **NO SE PUEDE COPIAR Y PEGAR EN LA TARJETA** tiene que utilizarse un software que abra el fichero imagen y copie en la tarjeta lo que dice el fichero.
+
+<iframe src="https://giphy.com/embed/kh9CRgRpKlXnG" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/models-older-raspberry-kh9CRgRpKlXnG">via GIPHY</a></p>
+
+
