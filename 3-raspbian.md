@@ -1,5 +1,5 @@
 ##Sistemas operativos
-Podemos instalar diferentes sistemas operativos en nuestra Raspbery, podemos instalar un [Linux-Ubuntu](https://ubuntu-mate.org/raspberry-pi/) ligero, un [Windows 10 especial](https://developer.microsoft.com/en-us/windows/iot/getstarted), aplicaciones que funcionan ya como sistemas operativos, tipo [recalbox](https://www.recalbox.com/),  
+Podemos instalar diferentes sistemas operativos en nuestra Raspbery, podemos instalar un [Linux-Ubuntu](https://ubuntu-mate.org/raspberry-pi/) ligero, un [Windows 10 especial](https://developer.microsoft.com/en-us/windows/iot/getstarted), aplicaciones quea funcionan ya como sistemas operativos, tipo [recalbox](https://www.recalbox.com/).. pero el sistema operativo que mejor funciona pues está adaptado a la arquitectura ARM de la raspberry es **RASBIAN**  
 
 
 ##Rasbian
