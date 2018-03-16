@@ -20,7 +20,7 @@ No hay ningún secreto en su precio, ya que fue diseñada con el fin de ser lo m
 
 La pregunta es ¿para qué lo vas a usar?
 
-* Aplicaciones que no requieren uso abusivo de recursos, como la robótica, [un servidor de Torrents](https://raspberryparatorpes.net/proyectos/instalar-y-configurar-un-descargador-de-torrents/), [videovigilancia](http://www.devlopez.com/es/camara-remota-super-simple-en-raspeberry-con-modulo-camera-pi-o-noir/), todo son buenos, pero que tenga Wifi incorporado como el PI3 facilita las cosas.
+* Aplicaciones que no requieren uso abusivo de recursos, como la robótica, [un servidor de Torrents](https://raspberryparatorpes.net/proyectos/instalar-y-configurar-un-descargador-de-torrents/), [streaming](http://www.devlopez.com/es/camara-remota-super-simple-en-raspeberry-con-modulo-camera-pi-o-noir/), [videovigilancia](https://programarfacil.com/podcast/87-video-con-raspberry-pi/)...todo son buenos, pero que tenga Wifi incorporado como el PI3 facilita las cosas.
 
 <iframe src="https://giphy.com/embed/MH680xjlXjtII" width="480" height="366" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/raspberry-MH680xjlXjtII">via GIPHY</a></p>
 
