@@ -1,4 +1,6 @@
 # Raspberry Básico
 
-Vamos a tener unas pequeñas nociones de Raspberry antes de entrar en la robótica con Rasberry
+Vamos a tener un pequeño cimiento en Raspberry antes de entrar en la robótica con Rasberry
+
+
 
