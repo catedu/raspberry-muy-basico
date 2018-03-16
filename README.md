@@ -1,3 +1,4 @@
-# My Awesome Book
+# Raspberry Básico
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+Vamos a tener unas pequeñas nociones de Raspberry antes de entrar en la robótica con Rasberry
+
