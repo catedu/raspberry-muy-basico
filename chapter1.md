@@ -21,8 +21,11 @@ No hay ningún secreto en su precio, ya que fue diseñada con el fin de ser lo m
 La pregunta es ¿para qué lo vas a usar?
 
 * Aplicaciones que no requieren uso abusivo de recursos, como la robótica, [un servidor de Torrents](https://raspberryparatorpes.net/proyectos/instalar-y-configurar-un-descargador-de-torrents/), [videovigilancia](http://www.devlopez.com/es/camara-remota-super-simple-en-raspeberry-con-modulo-camera-pi-o-noir/), todo son buenos, pero que tenga Wifi incorporado como el PI3 facilita las cosas.
+
 <iframe src="https://giphy.com/embed/MH680xjlXjtII" width="480" height="366" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/raspberry-MH680xjlXjtII">via GIPHY</a></p>
+
 * Aplicaciones con alto uso de recursos como video juegos, [recalbox](https://raspberryparatorpes.net/proyectos/recalbox-emulacion-y-retro-gaming-para-torpes/), [retropie](https://www.programoergosum.com/cursos-online/raspberry-pi/239-consola-arcade-basada-en-raspberry-pi-con-retropie/introduccion)... mejor la última versión.
+
 <iframe src="https://giphy.com/embed/WiGLW6zGIPUyY" width="480" height="226" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/raspberry-WiGLW6zGIPUyY">via GIPHY</a></p>
 
 En este curso usaremos el modelo PI3 por sus ventajas de conectividad Wifi, no obstante si se tiene otro modelo anterior, habría que conectar un pincho wifi.
