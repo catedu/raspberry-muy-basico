@@ -1,7 +1,13 @@
-##Activar VNC
-Lo hacemos vía SSH, teclear
+##Activar VNC via SSH
+Teclear
 
+
+
+```
 sudo raspi-config
+```
+
+
 
 Y entra en la opción 5 :
 
@@ -15,3 +21,8 @@ Y le decimos que YES
 
 ![](/assets/activar-vnc-yes.png)
 
+Finish
+
+![](/assets/finish-raspi-config.png)
+
+Pedirá reiniciar, le decimos que sí

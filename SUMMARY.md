@@ -8,5 +8,7 @@
 * [5 SSH](5-ssh.md)
 * [6 VNC](6-vnc.md)
   * [6.1 Activarlo](6-vnc/61-activarlo.md)
+  * 6.2 Instalar visor en Chrome
+  * [6.3 A cotillear](6-vnc/63-a-cotillear.md)
 * [Créditos](creditos.md)
 
