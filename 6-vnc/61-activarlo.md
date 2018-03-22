@@ -26,3 +26,10 @@ Finish
 ![](/assets/finish-raspi-config.png)
 
 Pedirá reiniciar, le decimos que sí
+
+##Activarlo con pantalla...
+
+![](/assets/Selection_040.png)
+
+![](/assets/Selection_041.png)
+
