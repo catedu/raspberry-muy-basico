@@ -1,3 +1,1 @@
 
-
-![](/assets/Selection_039.png)

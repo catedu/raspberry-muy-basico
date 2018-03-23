@@ -11,5 +11,4 @@
 * [8 VNC](6-vnc.md)
   * [8.1 VNC Server](6-vnc/61-activarlo.md)
   * [8.2 VNC Viewer](6-vnc/82-instalar-visor-en-chrome.md)
-  * [8.3 A cotillear](6-vnc/63-a-cotillear.md)
 
