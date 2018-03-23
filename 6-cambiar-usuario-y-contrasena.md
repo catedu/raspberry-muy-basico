@@ -6,7 +6,7 @@ Entramos por SSH [como hemos aprendido](/5-ssh.md), y tecleamos
 ```
 sudo passwd pi
 ```
-y nos pide enseguida la conytraseña
+y nos pide enseguida la contraseña, la tenemos que insertar dos veces _no se puede ver_.
 ##Con pantalla
 Entramos en **Preferencias- RaspberryPi configuration**
 
