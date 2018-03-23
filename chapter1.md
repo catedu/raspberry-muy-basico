@@ -1,4 +1,5 @@
-#De donde viene ...
+# 1 Un vistazo rápido
+##De donde viene ...
 
 En 2011 se desarrolló la Raspberry Pi como ordenador de bajo coste para facilitar la enseñanza de la informática en los colegios, pero hasta 2012 no comenzó a fabricarse. La fundación recibe apoyos del laboratorio de informática de la Universidad de Cambridge y de Broadcom.
 
