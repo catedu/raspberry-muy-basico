@@ -1,5 +1,5 @@
 #3 Rasbpian
-##¿Es el único sistemas operativo que se puede instalar?
+##3.1 ¿Es el único sistemas operativo que se puede instalar?
 **No**, podemos instalar otros sistemas operativos en nuestra Raspbery. Por ejemplo podemos instalar un [Linux-Ubuntu](https://ubuntu-mate.org/raspberry-pi/) ligero pero que se puede usar en una aula de informática ([ver libro del curso de Aularagon Monta tu aula de informática con Raspberry](https://www.gitbook.com/book/catedu/monta-tu-aula-de-informatica-con-raspberry-pi/details)), incluso un [Windows 10 especial](https://developer.microsoft.com/en-us/windows/iot/getstarted), o hay aplicaciones que ya funcionan ya como sistemas operativos, tipo [recalbox](https://www.recalbox.com/).. pero el sistema operativo que mejor funciona pues está adaptado a la arquitectura ARM de la raspberry es **RASBIAN**  
 
 Hay dos opciones, elige la que quieras (nuestra preferida es la A):

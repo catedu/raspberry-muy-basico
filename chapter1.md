@@ -1,11 +1,11 @@
 # 1 Un vistazo rápido
-##De donde viene ...
+##1.1 De donde viene ...
 
 En 2011 se desarrolló la Raspberry Pi como ordenador de bajo coste para facilitar la enseñanza de la informática en los colegios, pero hasta 2012 no comenzó a fabricarse. La fundación recibe apoyos del laboratorio de informática de la Universidad de Cambridge y de Broadcom.
 
 No hay ningún secreto en su precio, ya que fue diseñada con el fin de ser lo más barato posible, libre y llegar al máximo número de usuarios. Te puedes encontrar un PI3 con carcasa, alimentación y tarjeta clase 10 de 16 GB [por 50 € aprox](https://es.aliexpress.com/).
 
-## Modelos
+## 1.2 Modelos
 
 **RASPBERRY PI 1** ya empezó con 8 puertos GPIO en 26 pines, un HDMI y 2xUSB con un microprocesador ARM de 700MHz y SDRAM 256M ¿no estaba nada mal para empezar en el 2012?. 
 

@@ -28,8 +28,11 @@ Finish
 Pedirá reiniciar, le decimos que sí
 
 ##Activarlo con pantalla...
+Entramos en **Preferencias- RaspberryPi configuration**
 
 ![](/assets/Selection_040.png)
+
+Y en **Interfaces**
 
 ![](/assets/Selection_041.png)
 
