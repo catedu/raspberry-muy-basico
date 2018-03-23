@@ -3,7 +3,7 @@
 
 En 2011 se desarrolló la Raspberry Pi como ordenador de bajo coste para facilitar la enseñanza de la informática en los colegios, pero hasta 2012 no comenzó a fabricarse. La fundación recibe apoyos del laboratorio de informática de la Universidad de Cambridge y de Broadcom.
 
-No hay ningún secreto en su precio, ya que fue diseñada con el fin de ser lo más barato posible, libre y llegar al máximo número de usuarios. Te puedes encontrar un PI3 con carcasa, alimentación y tarjeta clase 10 de 16 GB [por 50 € aprox](https://es.aliexpress.com/).
+No hay ningún secreto en su precio, ya que fue diseñada con el fin de ser lo más barato posible, libre y llegar al máximo número de usuarios. Te puedes encontrar un PI3 con carcasa, alimentación y tarjeta clase 10 de 16 GB [por 50 € aprox o 30€ sólo la placa](https://es.aliexpress.com/).
 
 ## 1.2 Modelos
 
