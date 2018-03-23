@@ -1,6 +1,6 @@
-#GPIO
+#2 GPIO ¿qué es eso?
 
-**General Purpose Input Output (GPIO)** es el sistema que tiene la Raspberry para usarlo como entradas y salidas de uso general, los marcados como naranjas: 
+Pues es importante para la robótica pues **General Purpose Input Output (GPIO)** es el sistema que tiene la Raspberry para usarlo como entradas y salidas de uso general, los marcados como naranjas: 
 
 ![](https://docs.microsoft.com/en-us/windows/iot-core/media/pinmappingsrpi/rp2_pinout.png)
 
