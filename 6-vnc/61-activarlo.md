@@ -1,8 +1,8 @@
-#8.1 Activar VNC
+#8.1 VNC Server
 
-VNC server está instalado de forma nativa en Raspbian, sólo hay que activarlo
+**VNC server** está instalado de forma nativa en Raspbian, sólo hay que activarlo
 
-##8.1.1via SSH
+##8.1.1 Activarlo via SSH
 Teclear
 
 
@@ -36,7 +36,7 @@ Entramos en **Preferencias- RaspberryPi configuration**
 
 ![](/assets/Selection_040.png)
 
-Y en **Interfaces**
+Y en **Interfaces** de paso activa SSH
 
 ![](/assets/Selection_041.png)
 
