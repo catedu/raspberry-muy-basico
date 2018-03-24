@@ -2,15 +2,11 @@
 
 Vamos fijar las **bases** en Raspberry antes de entrar en la robótica con Rasberry
 
-Este minitutorial:
 * No necesitas conocimientos previos de este pequeño ordenador.
-* Sienta las bases para poder trabajar con él:
-    * **De forma remota**, sin pantalla ni teclado, sólo con la wifi. (recomendable sobre todo para AlphaBot).
-    * No remoto, con la pantalla, teclado y ratón.
 
 ##¿qué vas a conseguir despues de este tutorial?
  * Tener instalado el sistema operativo **Raspbian** en tu Raspberry.
- * Comunicarte con la Raspberry de forma **remota**:
+ * Comunicarte con la Raspberry de forma **remota** (imprescindible en robótica con Alphabot) a través de la **Wifi**:
      * En forma texto con SSH
      * En forma gráfica con VNC  
     
