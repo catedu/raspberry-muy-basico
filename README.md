@@ -3,6 +3,7 @@
 Vamos fijar las **bases** en Raspberry antes de entrar en la robótica con Rasberry
 
 * No necesitas conocimientos previos de este pequeño ordenador.
+* Necesitas un ordenador y Wifi.
 
 ##¿qué vas a conseguir despues de este tutorial?
  * Tener instalado el sistema operativo **Raspbian** en tu Raspberry.
