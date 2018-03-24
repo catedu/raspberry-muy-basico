@@ -1,5 +1,5 @@
 #4 Conectamos nuestra Rasbperry
-Lo que tenemos que hacer es conectar la Raspberry con la WIFI, hay dos opciones, sin necesidad de pantalla, teclado... o con pantalla, teclado y ratón.
+Lo que tenemos que hacer es conectar la Raspberry con la WIFI, hay dos opciones, con trastos (pantalla, teclado y ratón) o sin trastos:
 
 ##Opción A Conectar la Raspberry sin necesidad de pantalla, teclado y ratón
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSuE389RRI67Vi1LGxySj5rWjhfNMjV9t27FbO80BOqMqDJyKcH7hFZWdOXubwsuO8NtnwXtaTQfg4p/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
