@@ -9,16 +9,16 @@ Recuerda que lo que hemos hecho [en la sección 4](/4-primera-comunicacion.md) e
 Con estas dos cosas ya podemos trabajar por SSH.
 
 ##5.1 Linux
-Linux trabaja de forma nativa con SSH, lo tenemos en el icono en negro:
+Linux trabaja tiene de forma nativa el protocolo SSH, lo activamos en el icono en negro que es el **Terminal**:
 
 ![](/assets/terminal-where.jpg)
 
-Supongamos que la IP fija que le hemos asignado a la rasbperry es 192.168.1.131 Tecleamos
+Supongamos que la IP fija que le hemos asignado a la Rasbperry en el [punto 4](/4-primera-comunicacion.md) es 192.168.1.131 Tecleamos
 ```
 ssh pi@192.168.1.131
 
 ```
-Te pide la contraseña, la tecleas **_no la puedes ver_**, te tiene que salir algo así en la pantalla:
+Te pide la contraseña, por defecto es _raspberry_, la tecleas **_no la puedes ver_**, te tiene que salir algo así en la pantalla:
 
 **Cuando te sale pi@raspberrypi: es que ya está preparado para recibir órdenes**
 
