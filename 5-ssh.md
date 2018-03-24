@@ -51,4 +51,6 @@ Y rellenamos los campos de la IP, puerto y el protocolo SSH, es recomendable gra
 
 ![](/assets/Selection_043.png)
 
+Se abre una ventana pidiendo el usuario pi y contraseña pof
+
 
