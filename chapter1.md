@@ -17,7 +17,7 @@ No hay ningún secreto en su precio, ya que fue diseñada con el fin de ser lo m
 
 >[+Info aquí](https://www.luisllamas.es/modelos-de-raspberry-pi/), y para complicarlo más hay diferentes versiones de cada A, A+ B+ Rev1 Rev2.. [ver](https://www.raspberryshop.es/guia-completa-raspberry-pi.php#a27)
 
-## ¿Cual usamos?
+## 1.3 ¿Cual usamos?
 
 La pregunta es ¿para qué lo vas a usar?
 
@@ -29,7 +29,7 @@ La pregunta es ¿para qué lo vas a usar?
 
 <iframe src="https://giphy.com/embed/WiGLW6zGIPUyY" width="480" height="226" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/raspberry-WiGLW6zGIPUyY">via GIPHY</a></p>
 
-En este curso usaremos el modelo PI3 por sus ventajas de conectividad Wifi, no obstante si se tiene otro modelo anterior, habría que conectar un pincho wifi.
+En los cursos de CATEDU **usaremos el modelo PI3** por sus ventajas de conectividad Wifi, no obstante si se tiene otro modelo anterior, habría que conectar un pincho wifi ¡así de sencillo!.
 
 
 
