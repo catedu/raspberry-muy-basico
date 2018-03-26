@@ -12,5 +12,6 @@
   * [8.1 VNC Server](8-vnc/81-vnc-server.md)
   * [8.2 VNC Viewer](8-vnc/82-vnc-viewer.md)
 * [9 Comienza otra aventura](6-vnc.md)
-* 8 VNC
+* [8 VNC](8-vnc.md)
+* [Créditos](creditos.md)
 
