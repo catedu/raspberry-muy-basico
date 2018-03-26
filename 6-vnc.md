@@ -12,8 +12,8 @@ Ahora toca otra aventura, con esta base ya podemos programar la Raspberry en los
     * Haremos pequeño coche teledirigido
 * Programación con Python
     * Utilizaremos un robot [AlphaBot](https://www.waveshare.com/wiki/AlphaBot)
-
-[](http://pibrella.com/assets/pibrella-board.png)
+    
+![](/assets/pibrella.jpg)
 
 ![](/assets/Selection_001.jpg)
 
