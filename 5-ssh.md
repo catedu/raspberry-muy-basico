@@ -8,6 +8,8 @@ Recuerda que lo que hemos hecho [en la sección 4](/4-primera-comunicacion.md) e
 
 Con estas dos cosas ya podemos trabajar por SSH.
 
+**YA PODEMOS ENCENDER LA RASPBERRY** si has elegidos las opciones A de [3Rasbian](/3-raspbian.md) y [4Conectando](/4-primera-comunicacion.md) aún no lo habías encendido.
+
 ##5.1 Linux
 Linux trabaja tiene de forma nativa el protocolo SSH, lo activamos en el icono en negro que es el **Terminal**:
 
