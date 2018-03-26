@@ -6,7 +6,7 @@ Con este minilibro ya hemos aprendido a:
     * Comandos con SSH
     * Gráfica con VNC
     
-Ahora toca otra aventura, con esta base ya podemos programar en los dos siguientes cursos:
+Ahora toca otra aventura, con esta base ya podemos programar la Raspberry en los dos siguientes cursos:
 * Programación con Scratch 
     * Pondremos una shield sencilla educativa [Pibrella](http://pibrella.com/)
     * Haremos pequeño coche teledirigido
