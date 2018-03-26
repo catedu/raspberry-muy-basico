@@ -11,5 +11,6 @@
 * [8 VNC](6-vnc.md)
   * [8.1 VNC Server](6-vnc/61-activarlo.md)
   * [8.2 VNC Viewer](6-vnc/82-instalar-visor-en-chrome.md)
+* [9 Comienza otra aventura](6-vnc.md)
 * [Créditos](creditos.md)
 

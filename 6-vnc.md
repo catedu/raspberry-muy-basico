@@ -1,11 +1,21 @@
-#8 VNC
-Si no quieres trabajar con la pantalla, teclado y ratón localmente con la Raspberry, sino de forma **remota** con un ordenador, pero **no quieres renunciar al entorno gráfico** en el ordenador, esta es tu herramienta.
+#9 Comienza otra aventura
 
-En la imagen podemos ver el escritorio negro, que es el ordenador donde trabajo y el escritorio con la carretera es la de la RASBPBERRY
+Con este minilibro ya hemos aprendido a:
+* Instalar Raspbian
+* Conectarnos con la RASPBERRY via:
+    * Comandos con SSH
+    * Gráfica con VNC
+    
+Ahora toca otra aventura, con esta base ya podemos programar en los dos siguientes cursos:
+* Programación con Scratch 
+    * Pondremos una shield sencilla educativa [Pibrella](http://pibrella.com/)
+    * Haremos pequeño coche teledirigido
+* Programación con Python
+    * Utilizaremos un robot [AlphaBot](https://www.waveshare.com/wiki/AlphaBot)
 
-Hay que tener en cuenta que son dos programas:
-* **VNC Server** que está ya instalado en la Raspberry y es quien da el servicio (es decir el escritorio que se quiere ver).
-* **VNC Viewer** que es el visor, es decir el programa que hay que instalar en nuestro ordenador para que se vea lo que emite VNC server.
+[](http://pibrella.com/assets/pibrella-board.png)
 
-![](/assets/vnc-activar.jpg)
+![](/assets/Selection_001.jpg)
+
+![](https://www.waveshare.com/w/thumb.php?f=AlphaBot.jpg&width=300)
 
