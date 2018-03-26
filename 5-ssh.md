@@ -40,12 +40,6 @@ Last login: Fri Mar 23 18:03:09 2018 from 192.168.1.131
 pi@raspberrypi:~ $ 
 
 ```
-
-
-
-
-
-
 ##5.2 Windows
 No lo tiene nativo, tenemos que instalar [Putty](https://www.putty.org/)
 
@@ -53,6 +47,6 @@ Y rellenamos los campos de la IP, puerto y el protocolo SSH, es recomendable gra
 
 ![](/assets/Selection_043.png)
 
-Se abre una ventana pidiendo el usuario pi y contraseña pof
+Se abre una ventana pidiendo el usuario **_pi_** y contraseña por defecto **_rasbperry_**
 
 
