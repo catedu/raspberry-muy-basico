@@ -8,9 +8,9 @@
 * [5 SSH](5-ssh.md)
 * [6 Cambiar usuario y contraseña](6-cambiar-usuario-y-contrasena.md)
 * [7 Apagar](7-apagar.md)
-* [8 VNC](6-vnc.md)
-  * [8.1 VNC Server](6-vnc/61-activarlo.md)
-  * [8.2 VNC Viewer](6-vnc/82-instalar-visor-en-chrome.md)
+* [8 VNC](8-vnc.md)
+  * [8.1 VNC Server](8-vnc/81-vnc-server.md)
+  * [8.2 VNC Viewer](8-vnc/82-vnc-viewer.md)
 * [9 Comienza otra aventura](6-vnc.md)
-* [Créditos](creditos.md)
+* 8 VNC
 
