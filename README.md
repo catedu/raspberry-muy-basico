@@ -5,8 +5,8 @@ Vamos fijar las **bases** en Raspberry antes de entrar en la robótica con Rasbe
 * No necesitas conocimientos previos de este pequeño ordenador.
 
 ##¿Qué vas a conseguir?
- * Tener instalado el sistema operativo **Raspbian** en tu Raspberry.
- * Comunicarte con la Raspberry de forma **remota** (imprescindible en robótica con Alphabot) necesitas en este caso un ordenador y **Wifi**:
+ * **OBJETIVO 1** Tener instalado el sistema operativo **Raspbian** en tu Raspberry.
+ * **OBJETIVO 2**Comunicarte con la Raspberry de forma **remota** (imprescindible en robótica con Alphabot) necesitas en este caso un ordenador y **Wifi**:
      * Comunicarte en forma de comandos con **SSH**
      * Comunicarte en entorno gráfico con **VNC**  
     
