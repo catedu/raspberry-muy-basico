@@ -1,4 +1,4 @@
-#9 Comienza otra aventura
+#10 Comienza otra aventura
 
 Con este minilibro ya hemos aprendido a:
 * Instalar Raspbian
