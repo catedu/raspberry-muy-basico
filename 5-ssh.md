@@ -1,17 +1,18 @@
 #5 SSH
 Controlar Raspberry pi de forma remota y de forma textual es muy rápido y eficaz, sobre todo para la robótica con AlphaBot.
 
-SSH (Secure Shell) es el nombre de un protocolo y del programa que lo implementa, y sirve para acceder servidores privados a través de una puerta trasera. [Wikipedia](https://es.wikipedia.org/wiki/Secure_Shell).
+SSH (Secure Shell) según [Wikipedia](https://es.wikipedia.org/wiki/Secure_Shell) es el nombre de un protocolo y del programa que lo implementa, y sirve para acceder servidores privados a través de una puerta trasera. Te recomiendo visitar [esta página](https://www.luisllamas.es/consola-de-comandos-raspberry-pi/) de Luis Llamas.
+
 Recuerda que lo que hemos hecho [en la sección 4](/4-primera-comunicacion.md) es:
 * Hemos activado el protocolo SSH en la raspberry
 * Hemos fijado una IP para poder acceder a él.
 
 Con estas dos cosas ya podemos trabajar por SSH.
 
-**YA PODEMOS ENCENDER LA RASPBERRY** si has elegidos las opciones A de [3Rasbian](/3-raspbian.md) y [4Conectando](/4-primera-comunicacion.md) aún no lo habías encendido.
+**YA PODEMOS ENCENDER LA RASPBERRY** si has elegidos las opciones A de [3.-Rasbian](/3-raspbian.md) y [4.-Conectando](/4-primera-comunicacion.md) aún no habrás encendido la Raspberry.
 
 ##5.1 Linux
-Linux trabaja tiene de forma nativa el protocolo SSH, lo activamos en el icono en negro que es el **Terminal**:
+Linux tiene de forma nativa el protocolo SSH, lo activamos en el icono en negro que es el **Terminal**:
 
 ![](/assets/terminal-where.jpg)
 

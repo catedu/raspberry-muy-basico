@@ -6,7 +6,7 @@ Con esta opción no tienes que encender la Rasbperry.
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSuE389RRI67Vi1LGxySj5rWjhfNMjV9t27FbO80BOqMqDJyKcH7hFZWdOXubwsuO8NtnwXtaTQfg4p/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
-**Texto que hay que poner en interfaces** (para copiar y pegar)
+**Texto que hay que poner en interfaces**
 
 ```
 auto wlan0
@@ -17,6 +17,17 @@ netmask 255.255.255.0
 wpa-ssid el_nombre_tu_red_wifi
 wpa-psk la_contraseña_de_tu_wifi
 dns-nameservers 8.8.8.8 188.244.82.1
+```
+**Texto que hay que poner en wpa_supplicant.conf**
+```
+# /etc/wpa_supplicant/wpa_supplicant.conf
+ctrl_interface=DIR=/var/run/wpa_supplicant GROUP=netdev 
+update_config=1
+network={
+    ssid="nombre de tu router o SSID"
+    psk="tu contraseña del wi-fi"
+    key_mgmt=WPA-PSK 
+}
 ```
 ##Opción B Conectar la Raspberry con pantalla, teclado y ratón
 Aquí sí que tienes que encender la raspberry
