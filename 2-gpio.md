@@ -15,5 +15,11 @@ Otra desventaja con respecto al Arduino: Están diseñados para 3.3V **NO conect
 ##2.3 Corrientes
 Los GPIO están diseñados para ofrecer 3mA por cada pin, suficiente para encender LEDs pero **no pidas más** o **te cargarás la RASPBERRY**:
 
+Y por supuesto los leds no a lo bruto, sino a través de una resistencia ¿de qué valor?
+
+Voltios máximos 3.3V Intensidad máxima 3mA luego:
+
+R = V/I = 3.3/3 = 1.1 kOhm COMO MÍNIMO
+
 <iframe src="https://giphy.com/embed/2TzxBMRKMcYF2" width="480" height="413" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/analog-2TzxBMRKMcYF2">via GIPHY</a></p>
 
