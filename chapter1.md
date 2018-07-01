@@ -29,7 +29,9 @@ La pregunta es ¿para qué lo vas a usar?
 
 <iframe src="https://giphy.com/embed/WiGLW6zGIPUyY" width="480" height="226" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/raspberry-WiGLW6zGIPUyY">via GIPHY</a></p>
 
-En los cursos de CATEDU **usaremos el modelo PI3** por sus ventajas de conectividad Wifi, no obstante si se tiene otro modelo anterior, habría que conectar un pincho wifi ¡así de sencillo!.
+En los cursos de CATEDU **usaremos el modelo PI3** por sus ventajas de conectividad Wifi, no obstante si se tiene otro modelo anterior, habría que conectar un pincho wifi ¡así de sencillo! lo que pasa es que quedaría gracioso el robot:
+
+![](/assets/PICT0089.JPG)
 
 
 
