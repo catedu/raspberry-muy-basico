@@ -10,7 +10,7 @@ O dejarnos de ser tan tecnológicos y utilizar un pincho USB
 
 >Esto me recuerda a una historia en la carrera espacial: Hay un problema a la hora de usar los bolígrafos en gravedad 0 pues sólo funcionan por la caída de la tinta. La NASA gastó bastante dinero en desarrollar un bolígrafo capaz de escribir en el espacio pero el proyecto fue cancelado por sobrecoste, aunque luego [alguna empresa acabó inventanto un bolígrafo que funciona con gravedad 0](https://es.wikipedia.org/wiki/Space_Pen).
 
->...los rusos usan un lápiz. :DD
+>... los rusos usan un lápiz. :DD
 
 #Consejo
 Utilizar la misma micro tarjeta SD para transferir archivos desde vuestro PC a vuestra Raspberry y viceversa, evidentemente necesitas un adaptador.
