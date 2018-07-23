@@ -13,6 +13,6 @@
   * [8.2 VNC Viewer](8-vnc/82-vnc-viewer.md)
   * [8.3 Cambiar la resolución](8-vnc/83-cambiar-la-resolucion.md)
 * [9 Transferencia ficheros](9-transferencia-ficheros.md)
-* [10 Comienza otra aventura](6-vnc.md)
+* [10 Robótica con Raspberry](6-vnc.md)
 * [Créditos](creditos.md)
 

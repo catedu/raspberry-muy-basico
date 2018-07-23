@@ -23,3 +23,31 @@ R = V/I = 3.3/3 = 1.1 kOhm COMO MÍNIMO
 
 <iframe src="https://giphy.com/embed/2TzxBMRKMcYF2" width="480" height="413" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/analog-2TzxBMRKMcYF2">via GIPHY</a></p>
 
+##2.4 ¿QUE PUEDO CONECTAR PUES DIRÉCTAMENTE?
+**PRACTICAMENTE NADA** sólo un led o un interruptor/pulsador con una resistencia de como mínimo 1.1K 
+
+##2.5 QUE PUEDO CONECTAR INDIRECTAMENTE
+**Casi de todo** a través de alguna Shield o interface, por ejemplo:
+* Shield Pibrella muy, muy básico
+* Shield GrovePi+ ya permite todo tipo de sensores
+* AlphaBot un robot ya en movimiento.
+
+###2.5.1 Pibrella
+
+[Esta shield ](http://pibrella.com/)es muy, muy básica que tiene 3 leds, un pulsador, un buzzer y dos conectores de extensión.
+
+![](http://pibrella.com/assets/pibrella-board.png)
+
+###2.5.2 GrovePi+
+[Esta shield](https://www.seeedstudio.com/GrovePi%2B-p-2241.html) tiene un buen precio y muchas posibilidades y [muy buena página web de proyectos](http://wiki.seeedstudio.com/Grove_System/):
+
+![](https://www.seeedstudio.com/upload/image/20161021/1477039769923791.jpg)
+
+![](https://www.seeedstudio.com/upload/image/20161021/1477039791590132.jpg)
+
+###2.5.3 Alphabot
+* [CURSO EN AULARAGON](https://catedu.gitbooks.io/alphabot/content/) Programación con Python de este [AlphaBot](https://www.waveshare.com/wiki/AlphaBot) con webcam
+    
+![](/assets/alphabot.png)
+
+
