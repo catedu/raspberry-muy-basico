@@ -20,7 +20,7 @@ Hemos pensado las siguientes opciones:
 
 ###Robot muy básico
 * [CURSO EN AULARAGÓN](https://catedu.gitbooks.io/pibrella/content/)
-* Programación con Scratch 
+* Programación con **Scratch** 
     * Pondremos una shield sencilla educativa [Pibrella](http://pibrella.com/)
     * Haremos pequeño coche teledirigido
 
@@ -35,7 +35,7 @@ Hemos pensado las siguientes opciones:
 ![](https://www.seeedstudio.com/upload/image/20161021/1477039769923791.jpg)
 ###Programación con Robot Alphabot
 * [CURSO EN AULARAGON](https://catedu.gitbooks.io/alphabot/content/)
-* Programación con Python
+* Programación con **Python**
     * Utilizaremos un robot [AlphaBot](https://www.waveshare.com/wiki/AlphaBot) con webcam
     
 ![](/assets/alphabot.png)
