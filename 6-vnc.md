@@ -7,7 +7,7 @@ Con este minilibro ya hemos aprendido a:
     * Gráfica con VNC
     
 Ahora toca otra aventura, con esta base ya podemos programar la Raspberry
-##Qué ventaja tiene
+##¿Qué ventaja tiene?
 La principal ventaja de hacer robótica con la Raspberry es que **PROGRAMAMOS EN EL MISMO ROBOT** para que veas la diferencia:
 
 * **Robótica con Arduino**: Realizas el programa en tu PC, lo compilas (es decir lo convierte a lenguaje binario), lo grabas en el Arduino y el Arduino lo ejecuta.
