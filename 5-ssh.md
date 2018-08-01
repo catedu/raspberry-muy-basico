@@ -13,7 +13,18 @@ Con estas dos cosas ya podemos trabajar por SSH.
 
 **YA PODEMOS ENCENDER LA RASPBERRY** si has elegidos las opciones A de [3.-Raspbian](/3-raspbian.md) y [4.-Conectando](/4-primera-comunicacion.md) aún no habrás encendido la Raspberry.
 
-## 5.1 Linux
+## 5.1 Windows
+
+No lo tiene nativo, tenemos que instalar [Putty](https://www.putty.org/)
+
+Y rellenamos los campos de la IP, puerto y el protocolo SSH, es recomendable grabar la sesión para tenerlo en futuras entradas.
+
+![](/assets/Selection_043.png)
+
+Se abre una ventana pidiendo el usuario _**pi**_ y contraseña por defecto _**rasbperry**_
+
+
+## 5.2 Linux
 
 Linux tiene de forma nativa el protocolo SSH, lo activamos en el icono en negro que es el **Terminal**:
 
@@ -43,14 +54,29 @@ permitted by applicable law.
 Last login: Fri Mar 23 18:03:09 2018 from 192.168.1.131
 pi@raspberrypi:~ $
 ```
+<hr/>
 
-## 5.2 Windows
+######5.2.1 Nota por si te pasa
+Si después de un intento fallido, o realizar la conexión con otra computadora.... te sale este error al intentar conectarte por ssh:
+<hr/>
+>@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+>@    WARNING: REMOTE HOST IDENTIFICATION HAS CHANGED!     @
+>@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+>IT IS POSSIBLE THAT SOMEONE IS DOING SOMETHING NASTY!
+>Someone could be eavesdropping on you right now (man-in-the-middle attack)!
+>It is also possible that the RSA host key has just been changed.
+>The fingerprint for the RSA key sent by the remote host is
 
-No lo tiene nativo, tenemos que instalar [Putty](https://www.putty.org/)
+>Please contact your system administrator.
+>Add correct host key in /home/user/.ssh/known_hosts to get rid of this message.
+>Offending key in /home/user/.ssh/known_hosts:1
+>RSA host key for ras.mydomain.com has changed and you have >requested strict checking.
+>Host key verification failed.
 
-Y rellenamos los campos de la IP, puerto y el protocolo SSH, es recomendable grabar la sesión para tenerlo en futuras entradas.
+<hr/>
 
-![](/assets/Selection_043.png)
+Entonces antes de intentar conectarte por ssh, ejecuta esta orden desde la ventana de comandos (Terminal en Linux) :
 
-Se abre una ventana pidiendo el usuario _**pi**_ y contraseña por defecto _**rasbperry**_
+Supongamos que la IP fija que le hemos asignado a la Rasbperry en el[ punto 4](/4-primera-comunicacion.md) es 192.168.1.131 Tecleamos
 
+ssh-keygen -R 192.168.1.131
