@@ -31,5 +31,7 @@ O sea sin complicarnos
 
 >Luego [una empresa SpacePen acabó inventandolo](https://es.wikipedia.org/wiki/Space_Pen). Ahora tanto rusos como americanos usan el SpacePen a 6$ ya que es peligroso que la mina de un lápiz se rompa, es infamable, etc.. 
 
+>_Extraido de [Taringa.net](https://www.taringa.net/posts/info/12704492/Desmintiendo-el-mito-de-la-lapicera-Yankee-y-el-lapiz-Ruso.html)_
+
 ![](https://ugc.kn3.net/i/origin/http://1.bp.blogspot.com/-jZV23R0Bs9E/TirUPUok6LI/AAAAAAAAAbk/o4aOlQzE_PI/s400/astronauta.jpg)
 
