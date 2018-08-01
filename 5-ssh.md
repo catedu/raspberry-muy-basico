@@ -75,7 +75,7 @@ Si después de un intento fallido, o realizar la conexión con otra computadora.
 
 <hr/>
 
-Entonces antes de intentar conectarte por ssh, ejecuta esta orden desde la ventana de comandos (Terminal en Linux) :
+Entonces antes de intentar conectarte por ssh, hay que obligar a la Raspberry que reinicie las claves de conexión de ssh, ejecuta esta orden :
 
 Supongamos que la IP fija que le hemos asignado a la Rasbperry en el[ punto 4](/4-primera-comunicacion.md) es 192.168.1.131 Tecleamos
 
