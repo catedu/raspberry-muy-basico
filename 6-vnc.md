@@ -38,6 +38,7 @@ Hemos pensado las siguientes opciones:
 ![](/assets/alphabot.png)
 
 ##Fuera de nuestra propuesta
+* [GopiCo](https://www.dexterindustries.com/gopigo3/) para primaria
 * Utilizando una shield, por ejemplo [GrovePi+](https://www.seeedstudio.com/GrovePi%2B-p-2241.html)
 * Programación y proyectos en [esta wiki](http://wiki.seeedstudio.com/Grove_System/)
 ![](https://www.seeedstudio.com/upload/image/20161021/1477039769923791.jpg)
