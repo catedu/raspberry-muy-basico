@@ -19,7 +19,7 @@ Y por supuesto los leds no a lo bruto, sino a través de una resistencia ¿de qu
 
 Voltios máximos 3.3V Intensidad máxima 3mA luego:
 
-R = V/I = 3.3/3 = 1.1 kOhm COMO **MAXIMO**
+R = V/I = 3.3/3 = 1.1 kOhm COMO **MÍNIMO** o sea, mejor que no!
 
 <iframe src="https://giphy.com/embed/2TzxBMRKMcYF2" width="480" height="413" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/analog-2TzxBMRKMcYF2">via GIPHY</a></p>
 
