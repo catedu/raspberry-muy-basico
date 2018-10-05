@@ -15,6 +15,10 @@ La principal ventaja de hacer robótica con la Raspberry es que **PROGRAMAMOS EN
 
 Otras ventajas es que al ser un ordenador en sí mismo,  se puede realizar muchas cosas sin necesidad de añadir nuevo hardware. Por ejemplo una WebCam, Wifi con Internet, etc...
 
+Para que lo veas más claro:
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSWQY7gRe34Ji3EaKthZEvmHS6FWIjv5eN1jUr65SsBklHgC0O786dxo1fGKo4svpgZ1pz0i7k1Qiuh/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
 ##Nuestra propuesta:
 Hemos pensado las siguientes opciones:
 - Propuesta A: Pibrella. Muy básico con Scratch.
