@@ -1,4 +1,4 @@
-#4 Conectar la Raspberry con la Wifi y asignarle una IP fija
+#4 Conectar la Raspberry con la Wifi, asignarle una IP fija y activar SSH
 
 ##Opción A Conectar la Raspberry con pantalla, teclado y ratón
 Esta es más fácil, pero tienes que encender la Raspberry con teclado, pantalla y ratón:
