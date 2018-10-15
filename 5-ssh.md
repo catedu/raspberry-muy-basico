@@ -17,7 +17,7 @@ Con estas dos cosas ya podemos trabajar por SSH.
 
 No lo tiene nativo, tenemos que instalar [Putty](https://www.putty.org/)
 
-Y rellenamos los campos de la IP, puerto y el protocolo SSH, es recomendable grabar la sesión para tenerlo en futuras entradas.
+Y rellenamos los campos de la IP (la que hayas determinado, en la imagen es 192.168.1.111), puerto y el protocolo SSH, es recomendable grabar la sesión para tenerlo en futuras entradas.
 
 ![](/assets/Selection_043.png)
 

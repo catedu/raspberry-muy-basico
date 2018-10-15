@@ -1,5 +1,4 @@
-#4 Conectamos nuestra Rasbperry
-Lo que tenemos que hacer es conectar la Raspberry con la WIFI, hay dos opciones, con trastos (pantalla, teclado y ratón) o sin trastos:
+#4 Conectar la Raspberry con la Wifi y asignarle una IP fija
 
 ##Opción A Conectar la Raspberry con pantalla, teclado y ratón
 Esta es más fácil, pero tienes que encender la Raspberry con teclado, pantalla y ratón:
