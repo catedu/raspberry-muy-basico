@@ -30,9 +30,7 @@ Hemos pensado las siguientes opciones:
     * Pondremos una shield sencilla educativa [Pibrella](http://pibrella.com/)
     * Haremos pequeño coche teledirigido
 
-![](/assets/pibrella.jpg)
-
-![](/assets/Selection_001.jpg)
+![](/assets/pibrella-pequeño.gif)
 
 ###Propuesta B ALPHABOT Programación con Python
 * [CURSO EN AULARAGON](https://catedu.gitbooks.io/alphabot/content/)
