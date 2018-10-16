@@ -17,22 +17,10 @@ No hay ningún secreto en su precio, ya que fue diseñada con el fin de ser lo m
 
 >[+Info aquí](https://www.luisllamas.es/modelos-de-raspberry-pi/), y para complicarlo más hay diferentes versiones de cada A, A+ B+ Rev1 Rev2.. [ver](https://www.raspberryshop.es/guia-completa-raspberry-pi.php#a27)
 
-## 1.3 ¿Cual usamos?
+## 1.3 Usos de la raspberry
+Aquí tienes [un muro](https://padlet.com/CATEDU/usosRaspberry) que tú mismo puedes enriquecer:
 
-La pregunta es ¿para qué lo vas a usar?
-
-* Aplicaciones que no requieren uso abusivo de recursos, como la robótica, [un servidor de Torrents](https://raspberryparatorpes.net/proyectos/instalar-y-configurar-un-descargador-de-torrents/), [streaming](http://www.devlopez.com/es/camara-remota-super-simple-en-raspeberry-con-modulo-camera-pi-o-noir/), [videovigilancia](https://programarfacil.com/podcast/87-video-con-raspberry-pi/)...todo son buenos, pero que tenga Wifi incorporado como el PI3 facilita las cosas.
-
-<iframe src="https://giphy.com/embed/MH680xjlXjtII" width="480" height="366" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/raspberry-MH680xjlXjtII">via GIPHY</a></p>
-
-* Aplicaciones con alto uso de recursos como video juegos, [recalbox](https://raspberryparatorpes.net/proyectos/recalbox-emulacion-y-retro-gaming-para-torpes/), [retropie](https://www.programoergosum.com/cursos-online/raspberry-pi/239-consola-arcade-basada-en-raspberry-pi-con-retropie/introduccion)... mejor la última versión.
-
-<iframe src="https://giphy.com/embed/WiGLW6zGIPUyY" width="480" height="226" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/raspberry-WiGLW6zGIPUyY">via GIPHY</a></p>
-
-En los cursos de CATEDU **usaremos el modelo PI3** pues ya tiene la Wifi incorporada. No obstante si se tiene otro modelo anterior, habría que conectar un pincho wifi ¡así de sencillo!...  y gracioso el robot:
-
-![](/assets/PICT0089.JPG)
-
+<div class="padlet-embed" style="border:1px solid rgba(0,0,0,0.1);border-radius:2px;box-sizing:border-box;overflow:hidden;position:relative;width:100%;background:#F4F4F4"><p style="padding:0;margin:0"><iframe src="https://padlet.com/embed/g3mfklbq6ngn" frameborder="0" allow="camera;microphone;geolocation" style="width:100%;height:608px;display:block;padding:0;margin:0"></iframe></p><div style="padding:8px;text-align:right;margin:0;"><a href="https://padlet.com?ref=embed" style="padding:0;margin:0;border:none;display:block;line-height:1;height:16px" target="_blank"><img src="https://resources.padletcdn.com/assets/made_with_padlet.png" width="86" height="16" style="padding:0;margin:0;background:none;border:none;display:inline;box-shadow:none" alt="Hecho con Padlet"></a></div></div>
 
 
 
