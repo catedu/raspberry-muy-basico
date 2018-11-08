@@ -25,7 +25,7 @@ Pues sólo ves una de las dos particiones, almacena todo en la **boot** y luego 
 
 O sea sin complicarnos
 
-####Chocheando un poco
+####Divagando un poco...
 
 >Esto de que el camino sencillo es lo mejor, me recuerda a una historia en la carrera espacial: Hay un problema a la hora de usar los bolígrafos en gravedad 0 pues sólo funcionan por la caída de la tinta. La NASA gastó 4.382,50$ en desarrollar un bolígrafo capaz de escribir en el espacio pero el proyecto fue cancelado por duras críticas ¿por qué? ... porque **los rusos usaban un lápiz**. :DD
 
