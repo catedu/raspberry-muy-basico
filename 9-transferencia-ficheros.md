@@ -44,9 +44,11 @@ Si estás conectado por VNC entonces hay una opción de transferir archivos:
 
 hay que tener en cuenta que VNC sólo permite transferir archivos luego si quieres transferir una carpeta, lo tienes que enviar comprimido, pero comprímelo con formato ZIP, tar.. pero no rar que no lo admitirá:
 
+![](/assets/PhotoFiltre.jpg)
 
 
-O sea sin complicarnos
+.....
+O sea, nuestro consejo es elegir la opción menos complicada que veas.
 
 #### Divagando un poco...
 
