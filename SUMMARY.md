@@ -14,8 +14,14 @@
   * [8.3 Cambiar la resolución](8-vnc/83-cambiar-la-resolucion.md)
 * [9 Transferencia ficheros](9-transferencia-ficheros.md)
 * [10 Robótica con Raspberry](6-vnc.md)
-* [Créditos](creditos.md)
+
+_Para "frikis" fuera del curso_
+
 * [11 Conectando desde Internet](11-conectando-desde-internet.md)
   * [11.1 Remote.it](11-conectando-desde-internet/111-remoteit.md)
   * [11.2 Instalar remote.it en la Raspberry](11-conectando-desde-internet/112-instalar-remoteit-en-la-raspberry.md)
+   
+    
+  * [Créditos](creditos.md)
+
 
