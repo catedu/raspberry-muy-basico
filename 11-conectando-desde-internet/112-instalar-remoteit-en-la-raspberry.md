@@ -13,7 +13,9 @@ Entramos en nuestra RASPBERRY por SSH ([ya sabes cómo hacerlo](/5-ssh.md)) y te
 >sudo weavedinstaller
 
 4.- Nos aparecerá un menú, elegiremos **la opción 1** (aunque las otras también podrían valer pero lo más fácil es registrarse online tal y como hemos visto en [11.1 Remote.it](/11-conectando-desde-internet/111-remoteit.md) y utilizar ese **usuario **y **contraseña **con la opción 1):
+
 ![](http://forum.weaved.com/uploads/default/original/1X/415af66ac614261c254f11b540f0dd34297998f3.png)
+
 **OJO cuando tecleas la contraseña NO SE VE** piensas que el teclado no funciona, ¡no te engañes! el teclado funciona perfectamente, teclea tu contraseña y pulsa enter.
 ## 11.2.2 Añadir un servicio SSH
 Una vez que ya está instalado y logueado weavedinstaller podemos añadir el servicio SSH 
