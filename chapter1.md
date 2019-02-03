@@ -7,15 +7,20 @@ No hay ningún secreto en su precio, ya que fue diseñada con el fin de ser lo m
 
 ## 1.2 Modelos
 
-**RASPBERRY PI 1** ya empezó con 8 puertos GPIO en 26 pines, un HDMI y 2xUSB con un microprocesador ARM de 700MHz y SDRAM 256M ¿no estaba nada mal para empezar en el 2012?. 
+* **RASPBERRY PI 1** ya empezó con 8 puertos GPIO en 26 pines, un HDMI y 2xUSB con un microprocesador ARM de 700MHz y SDRAM 256M ¿no estaba nada mal para empezar en el 2012?. 
 
-**RASPBERRY PI 2** En 2015 se aumentaba la potencia a 900MHz y SDRAM de 1G con lo que las aplicaciones cargadas lo agradecían. Los puertos USB se amplian a 4, los núcleos también y los GPIO a 17 !! (con 40 pines y los primeros 26 son los mismos que la versión anterior para mantener la compatibilidad).
+* **RASPBERRY PI 2** En 2015 se aumentaba la potencia a 900MHz y SDRAM de 1G con lo que las aplicaciones cargadas lo agradecían. Los puertos USB se amplian a 4, los núcleos también y los GPIO a 17 !! (con 40 pines y los primeros 26 son los mismos que la versión anterior para mantener la compatibilidad).
 
-**RASPBERRY PI 3** Un año después, los que se compraron la PI2 se arrepintieron pues este modelo incopora Bluetooth y Wifi y el micro es de 64 bits.
+* **RASPBERRY PI 3** Un año después, los que se compraron la PI2 se arrepintieron pues este modelo incopora Bluetooth y Wifi y el micro es de 64 bits.
+    * RASPBERRY PI3 A+ unos 27€ pero no tiene conector de red de cable RJ45 y sólo un puerto USB.
+    * RASPBERRY PI3 B+ unos 33€ con conector cable red y 4 puertos USB, nuestro preferido.
 
-**Modelos micros**, para robots que requieran espacios reducidos, es el **RASPBERRY PI ZERO** equivalente al PI 1 pero sin Ethernet y el **RASPBERRY PI ZERO W** que se le añade Bluetooth y Wifi.
 
->[+Info aquí](https://www.luisllamas.es/modelos-de-raspberry-pi/), y para complicarlo más hay diferentes versiones de cada A, A+ B+ Rev1 Rev2.. [ver](https://www.raspberryshop.es/guia-completa-raspberry-pi.php#a27)
+
+>Existen **Modelos micros**, para robots que requieran espacios reducidos, es el **RASPBERRY PI ZERO** equivalente al PI 1 pero sin Ethernet y el **RASPBERRY PI ZERO W** que se le añade Bluetooth y Wifi.
+
+
+[+Info aquí](https://www.luisllamas.es/modelos-de-raspberry-pi/), y para complicarlo más hay diferentes versiones de cada A, A+ B+ Rev1 Rev2.. [ver](https://www.raspberryshop.es/guia-completa-raspberry-pi.php#a27)
 
 ## 1.3 Usos de la raspberry
 Aquí tienes [un muro](https://padlet.com/CATEDU/usosRaspberry) que tú mismo puedes enriquecer:
