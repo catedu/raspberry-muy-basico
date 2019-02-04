@@ -30,14 +30,14 @@ Elegimos la **opción 1 de añadir un servicio** y nos aparecerá otro menú:
 
 Elegimos la opción 1 SSH nos pedirá si queremos mantener el puerto 22 como defecto, o si queremos poner otro puerto, podemos dejar el puerto 22
 
-Luego nos pedirá que le asignemos un nombre, podemos poner **el que queremos** por ejemplo ssh-picam 
+Luego nos pedirá que le asignemos un nombre, podemos poner **el que queremos** por ejemplo **ssh-picam** 
 
 Después de unos minutos el servicio queda registrado en remote.it
 
 ##11.2.3 Añadir un servicio VNC
 Totalmente análogo al anterior, pero simplemente elegimos la opción 3 de este menú:
 ![](/assets/otromenu.jpg)
-Nos preguntará si queremos el puerto 5900 o si queremos otro, podemos dejar 5900, luego nos pregunta por un nombre arbritario, por ejemplo vnc-micam y luego después de unos minutos nuestro servicio queda registrado en remote.it
+Nos preguntará si queremos el puerto 5900 o si queremos otro, podemos dejar 5900, luego nos pregunta por un nombre arbritario, por ejemplo **vnc-micam** y luego después de unos minutos nuestro servicio queda registrado en remote.it
 
 
  
