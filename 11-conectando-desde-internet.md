@@ -1,4 +1,4 @@
-#Conectando nuestra Raspberry desde Internet
+#11 Conectando nuestra Raspberry desde Internet
 
 Hasta ahora todas las conexiones ha sido a través de red local, pero ...
 
