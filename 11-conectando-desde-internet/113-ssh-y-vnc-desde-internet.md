@@ -40,3 +40,5 @@ Salta una nueva página web que nos da un enlace web para conectar por VNC
 evidentemente nos preguntará por nuestro usuario y nuestra contraseña en la raspberry, [¿no la sabes?](/6-cambiar-usuario-y-contrasena.md).
 
 ![](/assets/remote-it-vnc3.jpg)
+
+Todos estos pasos lo explica muy bien [esta página de Remote.it](https://remot3it.zendesk.com/hc/en-us/articles/360004778432-Using-remote-it-with-RealVNC-and-the-Raspberry-Pi)
