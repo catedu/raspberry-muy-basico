@@ -37,17 +37,33 @@ Si no sale, lo tienes en /media/pi en este caso he insertado un pendrive llamado
 
 ![](/assets/media-pi.jpg)
 
-###Opción C con VNC
+###Opción C con VNC pues tengo la raspberry inaccesible
+####Por ejemplo está en [Alphabot](https://catedu.gitbooks.io/alphabot/content/)
 Si estás conectado por VNC entonces hay una opción de transferir archivos:
+
+####Opción C1 de mi ordenador a la Raspberry
+
+Vas a la parte superior de tu pantalla y aparecerá un menú de VNC de tu ordenador, pulsa en el botón de transferencia de archivos:
 
 ![](/assets/vnc-transferenciaarchivos.jpg)
 
-hay que tener en cuenta que VNC sólo permite transferir archivos luego si quieres transferir una carpeta, lo tienes que enviar comprimido, pero comprímelo con formato ZIP, tar.. pero no rar que no lo admitirá:
+
+###Opción C2 de la Raspberry a mi ordenador
+
+Tienes que ir al icono de VNC negro superior derecha que hay en el escritorio de la **Raspberry** viéndolo a través del VNC de tu ordenador (*sí, ya sé que es un poco lioso pero es fácil*):
+
+![](/assets/VNC-1.jpg)
+
+##Opción C3 No quiero un archivo, quiero una carpeta entera
+Pues no va a poder ser, VNC sólo admite archivos, pero existe un truco: **comprimir**.
+
+Hay que tener en cuenta que VNC sólo permite formato ZIP, tar.. pero no rar que no lo admitirá:
 
 ![](/assets/PhotoFiltre.jpg)
 
+Dentro de la Raspberry navegando con VNC puedes descomprimir el archivo con el botón derecho
 
-.....
+<hr />
 O sea, nuestro consejo es elegir la opción menos complicada que veas.
 
 #### Divagando un poco...
