@@ -15,12 +15,12 @@ No hay ningún secreto en su precio, ya que fue diseñada con el fin de ser lo m
     * RASPBERRY PI3 A+ unos 27€ pero no tiene conector de red de cable RJ45 y sólo un puerto USB.
     * RASPBERRY PI3 B+ unos 33€ con conector cable red y 4 puertos USB, nuestro preferido.
 
+* **RASPBERRY PI 4** Es la última versión (Junio 2019) con distintas opciones de RAM según el uso que le quieras dar (para robótica con 1G es suficiente, para usos más de ordenador de sobremesa es mejor 4G)
+
+![](https://pbs.twimg.com/media/D9zhKgCXkAMH99Q.jpg)
 
 
->Existen **Modelos micros**, para robots que requieran espacios reducidos, es el **RASPBERRY PI ZERO** equivalente al PI 1 pero sin Ethernet y el **RASPBERRY PI ZERO W** que se le añade Bluetooth y Wifi.
-
-
-[+Info aquí](https://www.luisllamas.es/modelos-de-raspberry-pi/), y para complicarlo más hay diferentes versiones de cada A, A+ B+ Rev1 Rev2.. [ver](https://www.raspberryshop.es/guia-completa-raspberry-pi.php#a27)
+>Existen **Modelos micros**, para robots que requieran espacios reducidos, es el **RASPBERRY PI ZERO** equivalente al PI 1 pero sin Ethernet y el **RASPBERRY PI ZERO W** que se le añade Bluetooth y Wifi. [+Info aquí](https://www.luisllamas.es/modelos-de-raspberry-pi/), y para complicarlo más hay diferentes versiones de cada A, A+ B+ Rev1 Rev2.. [ver](https://www.raspberryshop.es/guia-completa-raspberry-pi.php#a27)
 
 ## 1.3 Usos de la raspberry
 Aquí tienes [un muro](https://padlet.com/CATEDU/usosRaspberry) que tú mismo puedes enriquecer:
