@@ -1,31 +1,46 @@
 {
-    "plugins": ["youtube", "accordion", "styled-blockquotes", "localized-footer", "edit-link", "githubcontributors", "image-captions"],
-    "language": "es",
-    "variables": {
-        "title": "Raspberry muy básico",
-        "authors": [
-            "Javier Quintana Peiró",
-            "___________"
-        ],
-        "collaborators": [
-            { "name": "_________", "edited": "_____________" }
-        ]
+  "plugins": [
+    "youtube",
+    "accordion",
+    "styled-blockquotes",
+    "localized-footer",
+    "edit-link",
+    "githubcontributors",
+    "image-captions",
+    "ga"
+  ],
+  "language": "es",
+  "variables": {
+    "title": "Raspberry muy básico",
+    "authors": [
+      "Javier Quintana Peiró",
+      "___________"
+    ],
+    "collaborators": [
+      {
+        "name": "_________",
+        "edited": "_____________"
+      }
+    ]
+  },
+  "pluginsConfig": {
+    "localized-footer": {
+      "hline": true,
+      "filename": "./FOOTER.md"
     },
-    "pluginsConfig": {
-        "localized-footer": {
-            "hline": true,
-            "filename": "./FOOTER.md"
-        },
-        "image-captions": {
-            "caption": "Imagen - _CAPTION_"
-        },
-        "edit-link": {
-            "base": "https://github.com/catedu/raspberry-muy-basico/edit/master",
-            "label": "Edita esta página"
-        },
-        "githubcontributors": {
-            "githubOwner": "catedu",
-            "githubRepository": "raspberry-muy-basico"
-        }
+    "image-captions": {
+      "caption": "Imagen - _CAPTION_"
+    },
+    "edit-link": {
+      "base": "https://github.com/catedu/raspberry-muy-basico/edit/master",
+      "label": "Edita esta página"
+    },
+    "githubcontributors": {
+      "githubOwner": "catedu",
+      "githubRepository": "raspberry-muy-basico"
+    },
+    "ga": {
+      "token": "UA-135691041-2"
     }
+  }
 }
