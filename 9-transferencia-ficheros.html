@@ -1,0 +1,568 @@
+
+<!DOCTYPE HTML>
+<html lang="es" >
+    <head>
+        <meta charset="UTF-8">
+        <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+        <title>9 Transferencia ficheros · GitBook</title>
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+        <meta name="description" content="">
+        <meta name="generator" content="GitBook 3.2.3">
+        
+        
+        
+    
+    <link rel="stylesheet" href="gitbook/style.css">
+
+    
+            
+                
+                <link rel="stylesheet" href="gitbook/gitbook-plugin-accordion/accordion.css">
+                
+            
+                
+                <link rel="stylesheet" href="gitbook/gitbook-plugin-styled-blockquotes/plugin-styled-blockquotes.css">
+                
+            
+                
+                <link rel="stylesheet" href="gitbook/gitbook-plugin-githubcontributors/style.css">
+                
+            
+                
+                <link rel="stylesheet" href="gitbook/gitbook-plugin-image-captions/image-captions.css">
+                
+            
+                
+                <link rel="stylesheet" href="gitbook/gitbook-plugin-highlight/website.css">
+                
+            
+                
+                <link rel="stylesheet" href="gitbook/gitbook-plugin-search/search.css">
+                
+            
+                
+                <link rel="stylesheet" href="gitbook/gitbook-plugin-fontsettings/website.css">
+                
+            
+        
+
+    
+
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+
+        
+    
+    
+    <meta name="HandheldFriendly" content="true"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black">
+    <link rel="apple-touch-icon-precomposed" sizes="152x152" href="gitbook/images/apple-touch-icon-precomposed-152.png">
+    <link rel="shortcut icon" href="gitbook/images/favicon.ico" type="image/x-icon">
+
+    
+    <link rel="next" href="6-vnc.html" />
+    
+    
+    <link rel="prev" href="8-vnc/83-cambiar-la-resolucion.html" />
+    
+
+    </head>
+    <body>
+        
+<div class="book">
+    <div class="book-summary">
+        
+            
+<div id="book-search-input" role="search">
+    <input type="text" placeholder="Escribe para buscar" />
+</div>
+
+            
+                <nav role="navigation">
+                
+
+
+<ul class="summary">
+    
+    
+
+    
+
+    
+        
+        
+    
+        <li class="chapter " data-level="1.1" data-path="./">
+            
+                <a href="./">
+            
+                    
+                    Introduction
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.2" data-path="chapter1.html">
+            
+                <a href="chapter1.html">
+            
+                    
+                    1 Un vistazo rápido
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.3" data-path="2-gpio.html">
+            
+                <a href="2-gpio.html">
+            
+                    
+                    2 GPIO
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.4" data-path="3-raspbian.html">
+            
+                <a href="3-raspbian.html">
+            
+                    
+                    3 Raspbian
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.5" data-path="4-primera-comunicacion.html">
+            
+                <a href="4-primera-comunicacion.html">
+            
+                    
+                    4 Conectando desde red local
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.6" data-path="5-ssh.html">
+            
+                <a href="5-ssh.html">
+            
+                    
+                    5 SSH
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.7" data-path="6-cambiar-usuario-y-contrasena.html">
+            
+                <a href="6-cambiar-usuario-y-contrasena.html">
+            
+                    
+                    6 Cambiar usuario y contraseña
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.8" data-path="7-apagar.html">
+            
+                <a href="7-apagar.html">
+            
+                    
+                    7 Apagar
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.9" data-path="8-vnc.html">
+            
+                <a href="8-vnc.html">
+            
+                    
+                    8 VNC
+            
+                </a>
+            
+
+            
+            <ul class="articles">
+                
+    
+        <li class="chapter " data-level="1.9.1" data-path="8-vnc/81-vnc-server.html">
+            
+                <a href="8-vnc/81-vnc-server.html">
+            
+                    
+                    8.1 VNC Server
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.9.2" data-path="8-vnc/82-vnc-viewer.html">
+            
+                <a href="8-vnc/82-vnc-viewer.html">
+            
+                    
+                    8.2 VNC Viewer
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.9.3" data-path="8-vnc/83-cambiar-la-resolucion.html">
+            
+                <a href="8-vnc/83-cambiar-la-resolucion.html">
+            
+                    
+                    8.3 Cambiar la resolución
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+            </ul>
+            
+        </li>
+    
+        <li class="chapter active" data-level="1.10" data-path="9-transferencia-ficheros.html">
+            
+                <a href="9-transferencia-ficheros.html">
+            
+                    
+                    9 Transferencia ficheros
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.11" data-path="6-vnc.html">
+            
+                <a href="6-vnc.html">
+            
+                    
+                    10 Robótica con Raspberry
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+    
+        
+        <li class="header">Para frikis fuera del curso</li>
+        
+        
+    
+        <li class="chapter " data-level="2.1" data-path="11-conectando-desde-internet.html">
+            
+                <a href="11-conectando-desde-internet.html">
+            
+                    
+                    11 Conectando desde Internet
+            
+                </a>
+            
+
+            
+            <ul class="articles">
+                
+    
+        <li class="chapter " data-level="2.1.1" data-path="11-conectando-desde-internet/111-remoteit.html">
+            
+                <a href="11-conectando-desde-internet/111-remoteit.html">
+            
+                    
+                    11.1 Remote.it
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="2.1.2" data-path="11-conectando-desde-internet/112-instalar-remoteit-en-la-raspberry.html">
+            
+                <a href="11-conectando-desde-internet/112-instalar-remoteit-en-la-raspberry.html">
+            
+                    
+                    11.2 Instalar remote.it en la Raspberry
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="2.1.3" data-path="11-conectando-desde-internet/113-ssh-y-vnc-desde-internet.html">
+            
+                <a href="11-conectando-desde-internet/113-ssh-y-vnc-desde-internet.html">
+            
+                    
+                    11.3 SSH y VNC desde Internet
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+            </ul>
+            
+        </li>
+    
+
+    
+        
+        <li class="header">Créditos</li>
+        
+        
+    
+        <li class="chapter " data-level="3.1" data-path="creditos.html">
+            
+                <a href="creditos.html">
+            
+                    
+                    Créditos
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+    
+
+    <li class="divider"></li>
+
+    <li>
+        <a href="https://www.gitbook.com" target="blank" class="gitbook-link">
+            Publicado con GitBook
+        </a>
+    </li>
+</ul>
+
+
+                </nav>
+            
+        
+    </div>
+
+    <div class="book-body">
+        
+            <div class="body-inner">
+                
+                    
+
+<div class="book-header" role="navigation">
+    
+
+    <!-- Title -->
+    <h1>
+        <i class="fa fa-circle-o-notch fa-spin"></i>
+        <a href="." >9 Transferencia ficheros</a>
+    </h1>
+</div>
+
+
+
+
+                    <div class="page-wrapper" tabindex="-1" role="main">
+                        <div class="page-inner">
+                            
+<div id="book-search-results">
+    <div class="search-noresults">
+    
+                                <section class="normal markdown-section">
+                                
+                                <h1 id="9-transferencia-de-ficheros">9 Transferencia de ficheros</h1>
+<p>Para hacer una transferencia de ficheros, necesitamos un lugar com&#xFA;n entre nuestro Raspberry y nuestro PC.</p>
+<p>Podemos hacer una carpeta compartida en el Linux de Raspbian instalando un servidor Samba para que nuestro PC lo vea ... o tambi&#xE9;n podemos compartir una carpeta compartida en nuestro PC, a&#xF1;adir usuarios y permisos apropiados y depende si nuestro ordenador es Windows7, Windows10, Linux, Mac... todas estas opciones son muy interesantes, en Internet puedes encontrar tutoriales muy buenos y .... siempre hay fallos.</p>
+<p>O dejarnos de ser tan tecnol&#xF3;gicos .....</p>
+<h2 id="opci&#xF3;n-sencilla-a-utilizar-el-adaptador-y-la-micro-tarjeta-de-la-raspberry">Opci&#xF3;n sencilla A: utilizar el adaptador y la micro tarjeta de la Raspberry</h2>
+<p><img src="assets/2018-07-31 10_35_14-3 Raspbian &#xB7; Raspberry muy b&#xE1;sico.png" alt=""></p>
+<h4 id="a1--en-mi-pc-tengo-linux">A1.- En mi PC tengo LINUX</h4>
+<p>Pues mejor, ves las dos particiones de la micro tarjeta SD:</p>
+<ul>
+<li>boot</li>
+<li>rootfs</li>
+</ul>
+<p>Create una carpeta en <strong>rootfs</strong> en la carpeta /<strong>home/pi</strong> y ah&#xED; guarda tus proyectos.</p>
+<p><img src="assets/rootfs.jpg" alt=""></p>
+<h4 id="a2--en-mi-pc-tengo-windows">A2.- En mi PC tengo Windows</h4>
+<p>Pues s&#xF3;lo ves una de las dos particiones, almacena todo en la <strong>boot</strong> y luego en Rasbian por VNC pasa los archivos a la otra partici&#xF3;n <strong>rootfs</strong> en la carpeta /<strong>home/pi</strong>:</p>
+<p><img src="assets/boot.jpg" alt=""></p>
+<h2 id="opci&#xF3;n-sencilla-b-utilizar-un-pendrive-usb">Opci&#xF3;n sencilla B: Utilizar un pendrive USB</h2>
+<p>Exacto, como un ordenador, grabamos lo que queremos en un pendrive, luego lo conectamos a la Raspberry y saldr&#xE1; autom&#xE1;ticamente el gestor de archivos:</p>
+<p><img src="assets/gestorarchivos.jpg" alt=""></p>
+<p>Si no sale, lo tienes en /media/pi en este caso he insertado un pendrive llamado Jorge:</p>
+<p><img src="assets/media-pi.jpg" alt=""></p>
+<h3 id="opci&#xF3;n-c-con-vnc-pues-tengo-la-raspberry-inaccesible">Opci&#xF3;n C con VNC pues tengo la raspberry inaccesible</h3>
+<h4 id="por-ejemplo-est&#xE1;-en-alphabot">Por ejemplo est&#xE1; en <a href="https://catedu.gitbooks.io/alphabot/content/" target="_blank">Alphabot</a></h4>
+<p>Si est&#xE1;s conectado por VNC entonces hay una opci&#xF3;n de transferir archivos:</p>
+<h4 id="opci&#xF3;n-c1-de-mi-ordenador-a-la-raspberry">Opci&#xF3;n C1 de mi ordenador a la Raspberry</h4>
+<p>Vas a la parte superior de tu pantalla y aparecer&#xE1; un men&#xFA; de VNC de tu ordenador, pulsa en el bot&#xF3;n de transferencia de archivos:</p>
+<p><img src="assets/vnc-transferenciaarchivos.jpg" alt=""></p>
+<h3 id="opci&#xF3;n-c2-de-la-raspberry-a-mi-ordenador">Opci&#xF3;n C2 de la Raspberry a mi ordenador</h3>
+<p>Tienes que ir al icono de VNC negro superior derecha que hay en el escritorio de la <strong>Raspberry</strong> vi&#xE9;ndolo a trav&#xE9;s del VNC de tu ordenador (<em>s&#xED;, ya s&#xE9; que es un poco lioso pero es f&#xE1;cil</em>):</p>
+<p><img src="assets/VNC-1.jpg" alt=""></p>
+<h2 id="opci&#xF3;n-c3-no-quiero-un-archivo-quiero-una-carpeta-entera">Opci&#xF3;n C3 No quiero un archivo, quiero una carpeta entera</h2>
+<p>Pues no va a poder ser, VNC s&#xF3;lo admite archivos, pero existe un truco: <strong>comprimir</strong>.</p>
+<p>Hay que tener en cuenta que VNC s&#xF3;lo permite formato ZIP, tar.. pero no rar que no lo admitir&#xE1;:</p>
+<p><img src="assets/PhotoFiltre.jpg" alt=""></p>
+<p>Dentro de la Raspberry navegando con VNC puedes descomprimir el archivo con el bot&#xF3;n derecho</p>
+<p><hr>
+O sea, nuestro consejo es elegir la opci&#xF3;n menos complicada que veas.</p>
+<h4 id="divagando-un-poco">Divagando un poco...</h4>
+<blockquote>
+<p>Esto de que el camino sencillo es lo mejor, me recuerda a una historia en la carrera espacial: Hay un problema a la hora de usar los bol&#xED;grafos en gravedad 0 pues s&#xF3;lo funcionan por la ca&#xED;da de la tinta. La NASA gast&#xF3; 4.382,50$ en desarrollar un bol&#xED;grafo capaz de escribir en el espacio pero el proyecto fue cancelado por duras cr&#xED;ticas &#xBF;por qu&#xE9;? ... porque <strong>los rusos usaban un l&#xE1;piz</strong>. :DD</p>
+<p>Luego <a href="https://es.wikipedia.org/wiki/Space_Pen" target="_blank">una empresa SpacePen acab&#xF3; inventandolo</a>. Ahora tanto rusos como americanos usan el SpacePen a 6$ ya que es peligroso que la mina de un l&#xE1;piz se rompa, es infamable, etc..</p>
+<p><em>Extraido de </em><a href="https://www.taringa.net/posts/info/12704492/Desmintiendo-el-mito-de-la-lapicera-Yankee-y-el-lapiz-Ruso.html" target="_blank"><em>Taringa.net</em></a></p>
+</blockquote>
+<p><img src="https://ugc.kn3.net/i/origin/http://1.bp.blogspot.com/-jZV23R0Bs9E/TirUPUok6LI/AAAAAAAAAbk/o4aOlQzE_PI/s400/astronauta.jpg" alt=""></p>
+<p><div id="page-footer" class="localized-footer"><hr><p><a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/" target="_blank"><img alt="Licencia de Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/80x15.png"></a><br><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Raspberry muy b&#xE1;sico</span> por <span xmlns:cc="http://creativecommons.org/ns#" property="cc:attributionName">Javier Quintana Peir&#xF3;</span> bajo licencia <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/" target="_blank">Creative Commons Reconocimiento-NoComercial-CompartirIgual 4.0 Internacional License</a>.</p>
+</div></p>
+
+                                
+                                </section>
+                            
+    </div>
+    <div class="search-results">
+        <div class="has-results">
+            
+            <h1 class="search-results-title"><span class='search-results-count'></span> results matching "<span class='search-query'></span>"</h1>
+            <ul class="search-results-list"></ul>
+            
+        </div>
+        <div class="no-results">
+            
+            <h1 class="search-results-title">No results matching "<span class='search-query'></span>"</h1>
+            
+        </div>
+    </div>
+</div>
+
+                        </div>
+                    </div>
+                
+            </div>
+
+            
+                
+                <a href="8-vnc/83-cambiar-la-resolucion.html" class="navigation navigation-prev " aria-label="Previous page: 8.3 Cambiar la resolución">
+                    <i class="fa fa-angle-left"></i>
+                </a>
+                
+                
+                <a href="6-vnc.html" class="navigation navigation-next " aria-label="Next page: 10 Robótica con Raspberry">
+                    <i class="fa fa-angle-right"></i>
+                </a>
+                
+            
+        
+    </div>
+
+    <script>
+        var gitbook = gitbook || [];
+        gitbook.push(function() {
+            gitbook.page.hasChanged({"page":{"title":"9 Transferencia ficheros","level":"1.10","depth":1,"next":{"title":"10 Robótica con Raspberry","level":"1.11","depth":1,"path":"6-vnc.md","ref":"6-vnc.md","articles":[]},"previous":{"title":"8.3 Cambiar la resolución","level":"1.9.3","depth":2,"path":"8-vnc/83-cambiar-la-resolucion.md","ref":"8-vnc/83-cambiar-la-resolucion.md","articles":[]},"dir":"ltr"},"config":{"plugins":["youtube","accordion","styled-blockquotes","localized-footer","edit-link","githubcontributors","image-captions","ga"],"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"pluginsConfig":{"youtube":{},"accordion":{},"search":{},"styled-blockquotes":{},"localized-footer":{"filename":"./FOOTER.md","hline":true},"lunr":{"maxIndexSize":1000000,"ignoreSpecialCharacters":false},"fontsettings":{"theme":"white","family":"sans","size":2},"highlight":{},"ga":{"configuration":"auto","token":"UA-135691041-2"},"githubcontributors":{"contributorWidth":"300px","githubOwner":"catedu","githubRepository":"raspberry-muy-basico"},"sharing":{"facebook":true,"twitter":true,"google":false,"weibo":false,"instapaper":false,"vk":false,"all":["facebook","google","twitter","weibo","instapaper"]},"edit-link":{"label":"Edita esta página","base":"https://github.com/catedu/raspberry-muy-basico/edit/master"},"theme-default":{"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"showLevel":false},"image-captions":{"caption":"Imagen - _CAPTION_","variable_name":"_pictures"}},"theme":"default","pdf":{"pageNumbers":true,"fontSize":12,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":62,"left":62,"top":56,"bottom":56}},"structure":{"langs":"LANGS.md","readme":"README.md","glossary":"GLOSSARY.md","summary":"SUMMARY.md"},"variables":{"title":"Raspberry muy básico","authors":["Javier Quintana Peiró","___________"],"collaborators":[{"name":"_________","edited":"_____________"}],"_pictures":[{"backlink":"chapter1.html#fig1.2.1","level":"1.2","list_caption":"Figure: Hecho con Padlet","alt":"Hecho con Padlet","nro":1,"url":"https://resources.padletcdn.com/assets/made_with_padlet.png","index":1,"caption_template":"Imagen - _CAPTION_","label":"Hecho con Padlet","attributes":{},"skip":false,"key":"1.2.1"},{"backlink":"6-vnc.html#fig1.11.1","level":"1.11","list_caption":"Figure: Hecho con Padlet","alt":"Hecho con Padlet","nro":2,"url":"https://resources.padletcdn.com/assets/made_with_padlet.png","index":1,"caption_template":"Imagen - _CAPTION_","label":"Hecho con Padlet","attributes":{},"skip":false,"key":"1.11.1"}]},"language":"es","gitbook":"*"},"file":{"path":"9-transferencia-ficheros.md","mtime":"2020-10-27T08:53:26.447Z","type":"markdown"},"gitbook":{"version":"3.2.3","time":"2020-10-27T08:54:04.594Z"},"basePath":".","book":{"language":""}});
+        });
+    </script>
+</div>
+
+        
+    <script src="gitbook/gitbook.js"></script>
+    <script src="gitbook/theme.js"></script>
+    
+        
+        <script src="gitbook/gitbook-plugin-accordion/accordionSelector.js"></script>
+        
+    
+        
+        <script src="gitbook/gitbook-plugin-edit-link/plugin.js"></script>
+        
+    
+        
+        <script src="gitbook/gitbook-plugin-githubcontributors/contributors.js"></script>
+        
+    
+        
+        <script src="gitbook/gitbook-plugin-ga/plugin.js"></script>
+        
+    
+        
+        <script src="gitbook/gitbook-plugin-search/search-engine.js"></script>
+        
+    
+        
+        <script src="gitbook/gitbook-plugin-search/search.js"></script>
+        
+    
+        
+        <script src="gitbook/gitbook-plugin-lunr/lunr.min.js"></script>
+        
+    
+        
+        <script src="gitbook/gitbook-plugin-lunr/search-lunr.js"></script>
+        
+    
+        
+        <script src="gitbook/gitbook-plugin-sharing/buttons.js"></script>
+        
+    
+        
+        <script src="gitbook/gitbook-plugin-fontsettings/fontsettings.js"></script>
+        
+    
+
+    </body>
+</html>
+

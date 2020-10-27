@@ -1,0 +1,550 @@
+
+<!DOCTYPE HTML>
+<html lang="es" >
+    <head>
+        <meta charset="UTF-8">
+        <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+        <title>3 Raspbian · GitBook</title>
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+        <meta name="description" content="">
+        <meta name="generator" content="GitBook 3.2.3">
+        
+        
+        
+    
+    <link rel="stylesheet" href="gitbook/style.css">
+
+    
+            
+                
+                <link rel="stylesheet" href="gitbook/gitbook-plugin-accordion/accordion.css">
+                
+            
+                
+                <link rel="stylesheet" href="gitbook/gitbook-plugin-styled-blockquotes/plugin-styled-blockquotes.css">
+                
+            
+                
+                <link rel="stylesheet" href="gitbook/gitbook-plugin-githubcontributors/style.css">
+                
+            
+                
+                <link rel="stylesheet" href="gitbook/gitbook-plugin-image-captions/image-captions.css">
+                
+            
+                
+                <link rel="stylesheet" href="gitbook/gitbook-plugin-highlight/website.css">
+                
+            
+                
+                <link rel="stylesheet" href="gitbook/gitbook-plugin-search/search.css">
+                
+            
+                
+                <link rel="stylesheet" href="gitbook/gitbook-plugin-fontsettings/website.css">
+                
+            
+        
+
+    
+
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+
+        
+    
+    
+    <meta name="HandheldFriendly" content="true"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black">
+    <link rel="apple-touch-icon-precomposed" sizes="152x152" href="gitbook/images/apple-touch-icon-precomposed-152.png">
+    <link rel="shortcut icon" href="gitbook/images/favicon.ico" type="image/x-icon">
+
+    
+    <link rel="next" href="4-primera-comunicacion.html" />
+    
+    
+    <link rel="prev" href="2-gpio.html" />
+    
+
+    </head>
+    <body>
+        
+<div class="book">
+    <div class="book-summary">
+        
+            
+<div id="book-search-input" role="search">
+    <input type="text" placeholder="Escribe para buscar" />
+</div>
+
+            
+                <nav role="navigation">
+                
+
+
+<ul class="summary">
+    
+    
+
+    
+
+    
+        
+        
+    
+        <li class="chapter " data-level="1.1" data-path="./">
+            
+                <a href="./">
+            
+                    
+                    Introduction
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.2" data-path="chapter1.html">
+            
+                <a href="chapter1.html">
+            
+                    
+                    1 Un vistazo rápido
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.3" data-path="2-gpio.html">
+            
+                <a href="2-gpio.html">
+            
+                    
+                    2 GPIO
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter active" data-level="1.4" data-path="3-raspbian.html">
+            
+                <a href="3-raspbian.html">
+            
+                    
+                    3 Raspbian
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.5" data-path="4-primera-comunicacion.html">
+            
+                <a href="4-primera-comunicacion.html">
+            
+                    
+                    4 Conectando desde red local
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.6" data-path="5-ssh.html">
+            
+                <a href="5-ssh.html">
+            
+                    
+                    5 SSH
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.7" data-path="6-cambiar-usuario-y-contrasena.html">
+            
+                <a href="6-cambiar-usuario-y-contrasena.html">
+            
+                    
+                    6 Cambiar usuario y contraseña
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.8" data-path="7-apagar.html">
+            
+                <a href="7-apagar.html">
+            
+                    
+                    7 Apagar
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.9" data-path="8-vnc.html">
+            
+                <a href="8-vnc.html">
+            
+                    
+                    8 VNC
+            
+                </a>
+            
+
+            
+            <ul class="articles">
+                
+    
+        <li class="chapter " data-level="1.9.1" data-path="8-vnc/81-vnc-server.html">
+            
+                <a href="8-vnc/81-vnc-server.html">
+            
+                    
+                    8.1 VNC Server
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.9.2" data-path="8-vnc/82-vnc-viewer.html">
+            
+                <a href="8-vnc/82-vnc-viewer.html">
+            
+                    
+                    8.2 VNC Viewer
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.9.3" data-path="8-vnc/83-cambiar-la-resolucion.html">
+            
+                <a href="8-vnc/83-cambiar-la-resolucion.html">
+            
+                    
+                    8.3 Cambiar la resolución
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+            </ul>
+            
+        </li>
+    
+        <li class="chapter " data-level="1.10" data-path="9-transferencia-ficheros.html">
+            
+                <a href="9-transferencia-ficheros.html">
+            
+                    
+                    9 Transferencia ficheros
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.11" data-path="6-vnc.html">
+            
+                <a href="6-vnc.html">
+            
+                    
+                    10 Robótica con Raspberry
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+    
+        
+        <li class="header">Para frikis fuera del curso</li>
+        
+        
+    
+        <li class="chapter " data-level="2.1" data-path="11-conectando-desde-internet.html">
+            
+                <a href="11-conectando-desde-internet.html">
+            
+                    
+                    11 Conectando desde Internet
+            
+                </a>
+            
+
+            
+            <ul class="articles">
+                
+    
+        <li class="chapter " data-level="2.1.1" data-path="11-conectando-desde-internet/111-remoteit.html">
+            
+                <a href="11-conectando-desde-internet/111-remoteit.html">
+            
+                    
+                    11.1 Remote.it
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="2.1.2" data-path="11-conectando-desde-internet/112-instalar-remoteit-en-la-raspberry.html">
+            
+                <a href="11-conectando-desde-internet/112-instalar-remoteit-en-la-raspberry.html">
+            
+                    
+                    11.2 Instalar remote.it en la Raspberry
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="2.1.3" data-path="11-conectando-desde-internet/113-ssh-y-vnc-desde-internet.html">
+            
+                <a href="11-conectando-desde-internet/113-ssh-y-vnc-desde-internet.html">
+            
+                    
+                    11.3 SSH y VNC desde Internet
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+            </ul>
+            
+        </li>
+    
+
+    
+        
+        <li class="header">Créditos</li>
+        
+        
+    
+        <li class="chapter " data-level="3.1" data-path="creditos.html">
+            
+                <a href="creditos.html">
+            
+                    
+                    Créditos
+            
+                </a>
+            
+
+            
+        </li>
+    
+
+    
+
+    <li class="divider"></li>
+
+    <li>
+        <a href="https://www.gitbook.com" target="blank" class="gitbook-link">
+            Publicado con GitBook
+        </a>
+    </li>
+</ul>
+
+
+                </nav>
+            
+        
+    </div>
+
+    <div class="book-body">
+        
+            <div class="body-inner">
+                
+                    
+
+<div class="book-header" role="navigation">
+    
+
+    <!-- Title -->
+    <h1>
+        <i class="fa fa-circle-o-notch fa-spin"></i>
+        <a href="." >3 Raspbian</a>
+    </h1>
+</div>
+
+
+
+
+                    <div class="page-wrapper" tabindex="-1" role="main">
+                        <div class="page-inner">
+                            
+<div id="book-search-results">
+    <div class="search-noresults">
+    
+                                <section class="normal markdown-section">
+                                
+                                <h1 id="3-rasbpian">3 Rasbpian</h1>
+<h2 id="31-&#xBF;es-el-&#xFA;nico-sistemas-operativo-que-se-puede-instalar">3.1 &#xBF;Es el &#xFA;nico sistemas operativo que se puede instalar?</h2>
+<p><strong>No</strong>, podemos instalar otros sistemas operativos en nuestra Raspbery (evidentemente uno s&#xF3;lo cada vez, poner dos a la vez en la <em>rasp</em> ser&#xED;a forzarlo demasiado). Por ejemplo:</p>
+<ul>
+<li>Podemos instalar un <strong><a href="https://ubuntu-mate.org/raspberry-pi/" target="_blank">Linux-Ubuntu</a></strong> ligero pero que se puede usar en una aula de inform&#xE1;tica (<a href="https://www.gitbook.com/book/catedu/monta-tu-aula-de-informatica-con-raspberry-pi/details" target="_blank">ver libro del curso de Aularagon Monta tu aula de inform&#xE1;tica con Raspberry</a>).</li>
+<li>Si no podemos vivir sin Windows, hay un <strong><a href="https://developer.microsoft.com/en-us/windows/iot/getstarted" target="_blank">Windows 10 especial</a></strong> gratis <em>(s&#xED; has le&#xED;do bien, los de Microsoft van entendiendo eso de si no puedes con ellos &#xFA;nete a ellos, pero no te hagas ilusiones, s&#xF3;lo vale para la Raspberry y no esperes una m&#xE1;quina que sustituya a tu PC).</em></li>
+<li>Sistemas operativos para aplicaciones concretas:<ul>
+<li>Video juegos: <a href="https://www.recalbox.com/" target="_blank">Recalbox</a>.</li>
+<li>D&#xF3;m&#xF3;tica y control <a href="https://www.home-assistant.io/" target="_blank">Home Assitant </a></li>
+</ul>
+</li>
+<li>Nuestro sistema operativo de este curso (y el mejor que &quot;<em>rula en la Rasp</em>&quot;) pues est&#xE1; adaptado a la arquitectura ARM de la Raspberry es <strong>RASPBIAN</strong>  </li>
+</ul>
+<p>Hay dos opciones, elige la que quieras (nuestra preferida es la A):</p>
+<h2 id="opci&#xF3;n-a-instalar-la-raspbian-en-la-tarjeta-sin-noobs">Opci&#xF3;n A Instalar la Raspbian en la tarjeta sin NOOBS</h2>
+<p>Con esta opci&#xF3;n no tienes que encender la Rasbperry.</p>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQoxDLLHMvB-mCQwm2en9cBgb1faamFG0YJIiFDFuNrGH8TuH8U-4zCDg_K9CkM4gFl-Wy6TxBNLg9j/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+<h2 id="opci&#xF3;n-b-instalar-la-raspbian-en-la-tarjeta-con-noobs">Opci&#xF3;n B Instalar la Raspbian en la tarjeta con NOOBS</h2>
+<p>Con esta opci&#xF3;n SI que tienes que encender la Rasbperry con pantalla, teclado y rat&#xF3;n</p>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vR4wwk8BwdSEgk-aTQ_xgvrQYJ-cr2QhN_35Q-mYJxYedhT5P-vF6UkDbSsHJ5I_zLS7IqBirdNfI4t/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+
+
+
+
+
+<p><div id="page-footer" class="localized-footer"><hr><p><a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/" target="_blank"><img alt="Licencia de Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/80x15.png"></a><br><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Raspberry muy b&#xE1;sico</span> por <span xmlns:cc="http://creativecommons.org/ns#" property="cc:attributionName">Javier Quintana Peir&#xF3;</span> bajo licencia <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/" target="_blank">Creative Commons Reconocimiento-NoComercial-CompartirIgual 4.0 Internacional License</a>.</p>
+</div></p>
+
+                                
+                                </section>
+                            
+    </div>
+    <div class="search-results">
+        <div class="has-results">
+            
+            <h1 class="search-results-title"><span class='search-results-count'></span> results matching "<span class='search-query'></span>"</h1>
+            <ul class="search-results-list"></ul>
+            
+        </div>
+        <div class="no-results">
+            
+            <h1 class="search-results-title">No results matching "<span class='search-query'></span>"</h1>
+            
+        </div>
+    </div>
+</div>
+
+                        </div>
+                    </div>
+                
+            </div>
+
+            
+                
+                <a href="2-gpio.html" class="navigation navigation-prev " aria-label="Previous page: 2 GPIO">
+                    <i class="fa fa-angle-left"></i>
+                </a>
+                
+                
+                <a href="4-primera-comunicacion.html" class="navigation navigation-next " aria-label="Next page: 4 Conectando desde red local">
+                    <i class="fa fa-angle-right"></i>
+                </a>
+                
+            
+        
+    </div>
+
+    <script>
+        var gitbook = gitbook || [];
+        gitbook.push(function() {
+            gitbook.page.hasChanged({"page":{"title":"3 Raspbian","level":"1.4","depth":1,"next":{"title":"4 Conectando desde red local","level":"1.5","depth":1,"path":"4-primera-comunicacion.md","ref":"4-primera-comunicacion.md","articles":[]},"previous":{"title":"2 GPIO","level":"1.3","depth":1,"path":"2-gpio.md","ref":"2-gpio.md","articles":[]},"dir":"ltr"},"config":{"plugins":["youtube","accordion","styled-blockquotes","localized-footer","edit-link","githubcontributors","image-captions","ga"],"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"pluginsConfig":{"youtube":{},"accordion":{},"search":{},"styled-blockquotes":{},"localized-footer":{"filename":"./FOOTER.md","hline":true},"lunr":{"maxIndexSize":1000000,"ignoreSpecialCharacters":false},"fontsettings":{"theme":"white","family":"sans","size":2},"highlight":{},"ga":{"configuration":"auto","token":"UA-135691041-2"},"githubcontributors":{"contributorWidth":"300px","githubOwner":"catedu","githubRepository":"raspberry-muy-basico"},"sharing":{"facebook":true,"twitter":true,"google":false,"weibo":false,"instapaper":false,"vk":false,"all":["facebook","google","twitter","weibo","instapaper"]},"edit-link":{"label":"Edita esta página","base":"https://github.com/catedu/raspberry-muy-basico/edit/master"},"theme-default":{"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"showLevel":false},"image-captions":{"caption":"Imagen - _CAPTION_","variable_name":"_pictures"}},"theme":"default","pdf":{"pageNumbers":true,"fontSize":12,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":62,"left":62,"top":56,"bottom":56}},"structure":{"langs":"LANGS.md","readme":"README.md","glossary":"GLOSSARY.md","summary":"SUMMARY.md"},"variables":{"title":"Raspberry muy básico","authors":["Javier Quintana Peiró","___________"],"collaborators":[{"name":"_________","edited":"_____________"}],"_pictures":[{"backlink":"chapter1.html#fig1.2.1","level":"1.2","list_caption":"Figure: Hecho con Padlet","alt":"Hecho con Padlet","nro":1,"url":"https://resources.padletcdn.com/assets/made_with_padlet.png","index":1,"caption_template":"Imagen - _CAPTION_","label":"Hecho con Padlet","attributes":{},"skip":false,"key":"1.2.1"},{"backlink":"6-vnc.html#fig1.11.1","level":"1.11","list_caption":"Figure: Hecho con Padlet","alt":"Hecho con Padlet","nro":2,"url":"https://resources.padletcdn.com/assets/made_with_padlet.png","index":1,"caption_template":"Imagen - _CAPTION_","label":"Hecho con Padlet","attributes":{},"skip":false,"key":"1.11.1"}]},"language":"es","gitbook":"*"},"file":{"path":"3-raspbian.md","mtime":"2020-10-27T08:53:26.447Z","type":"markdown"},"gitbook":{"version":"3.2.3","time":"2020-10-27T08:54:04.594Z"},"basePath":".","book":{"language":""}});
+        });
+    </script>
+</div>
+
+        
+    <script src="gitbook/gitbook.js"></script>
+    <script src="gitbook/theme.js"></script>
+    
+        
+        <script src="gitbook/gitbook-plugin-accordion/accordionSelector.js"></script>
+        
+    
+        
+        <script src="gitbook/gitbook-plugin-edit-link/plugin.js"></script>
+        
+    
+        
+        <script src="gitbook/gitbook-plugin-githubcontributors/contributors.js"></script>
+        
+    
+        
+        <script src="gitbook/gitbook-plugin-ga/plugin.js"></script>
+        
+    
+        
+        <script src="gitbook/gitbook-plugin-search/search-engine.js"></script>
+        
+    
+        
+        <script src="gitbook/gitbook-plugin-search/search.js"></script>
+        
+    
+        
+        <script src="gitbook/gitbook-plugin-lunr/lunr.min.js"></script>
+        
+    
+        
+        <script src="gitbook/gitbook-plugin-lunr/search-lunr.js"></script>
+        
+    
+        
+        <script src="gitbook/gitbook-plugin-sharing/buttons.js"></script>
+        
+    
+        
+        <script src="gitbook/gitbook-plugin-fontsettings/fontsettings.js"></script>
+        
+    
+
+    </body>
+</html>
+
