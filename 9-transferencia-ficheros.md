@@ -38,7 +38,7 @@ Si no sale, lo tienes en /media/pi en este caso he insertado un pendrive llamado
 ![](/assets/media-pi.jpg)
 
 ###Opción C con VNC pues tengo la raspberry inaccesible
-####Por ejemplo está en [Alphabot](https://catedu.gitbooks.io/alphabot/content/)
+####Por ejemplo está en [Alphabot](https://catedu.github.io/alphabot/)
 Si estás conectado por VNC entonces hay una opción de transferir archivos:
 
 ####Opción C1 de mi ordenador a la Raspberry

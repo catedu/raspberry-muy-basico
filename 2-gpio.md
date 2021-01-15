@@ -46,7 +46,7 @@ R = V/I = 3.3/3 = 1.1 kOhm COMO **MÍNIMO** o sea, mejor que no!
 ![](https://www.seeedstudio.com/upload/image/20161021/1477039791590132.jpg)
 
 ###2.5.3 Alphabot
-* [CURSO EN AULARAGON](https://catedu.gitbooks.io/alphabot/content/) Programación con Python de este [AlphaBot](https://www.waveshare.com/wiki/AlphaBot) con webcam
+* [CURSO EN AULARAGON](https://catedu.github.io/alphabot/) Programación con Python de este [AlphaBot](https://www.waveshare.com/wiki/AlphaBot) con webcam
     
 ![](/assets/alphabot.png)
 

@@ -25,7 +25,7 @@ Hemos pensado las siguientes opciones:
 - Propuesta B: Alphabot. Avanzado con Python.
 
 ###Propuesta A. PIBRELLA Robot muy básico CON SCRATCH
-* [CURSO EN AULARAGÓN](https://catedu.gitbooks.io/pibrella/content/)
+* [CURSO EN AULARAGÓN](https://catedu.github.io/pibrella/)
 * Programación con **Scratch** 
     * Pondremos una shield sencilla educativa [Pibrella](http://pibrella.com/)
     * Haremos pequeño coche teledirigido
@@ -33,7 +33,7 @@ Hemos pensado las siguientes opciones:
 ![](/assets/pibrella-pequeño.gif)
 
 ###Propuesta B ALPHABOT Programación con Python
-* [CURSO EN AULARAGON](https://catedu.gitbooks.io/alphabot/content/)
+* [CURSO EN AULARAGON](https://catedu.github.io/alphabot/)
 * Programación con **Python**
     * Utilizaremos un robot [AlphaBot](https://www.waveshare.com/wiki/AlphaBot) con webcam
     

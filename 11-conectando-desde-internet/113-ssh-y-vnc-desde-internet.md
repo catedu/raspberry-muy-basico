@@ -8,7 +8,7 @@ Pinchamos en el dispositivo y nos aparece los servicios que tenemos instalados:
 
 ![](/assets/remoteit2.jpg)
 
-Vemos que tenenemos SSH, VNC y HTTP que eso lo verás si haces el curso de [Alphabot](https://catedu.gitbooks.io/alphabot/content/)
+Vemos que tenenemos SSH, VNC y HTTP que eso lo verás si haces el curso de [Alphabot](https://catedu.github.io/alphabot/)
 
 ##11.3.1 Conexión SSH
 Pinchamos en la anterior imagen en SSH y nos aparece los valores que tenemos que necesitamos para nuestra conexión SSH
