@@ -6,7 +6,7 @@
 * Sistemas operativos para aplicaciones concretas:
     * Video juegos: [Recalbox](https://www.recalbox.com/).
     * Dómótica y control [Home Assitant ](https://www.home-assistant.io/)
-* Nuestro sistema operativo de este curso (y el mejor que "_rula en la Rasp_") pues está adaptado a la arquitectura ARM de la Raspberry es **RASPBIAN**  
+* Nuestro sistema operativo de este curso (y el mejor que "_rula en la Rasp_") pues está adaptado a la arquitectura ARM de la Raspberry es **RASPBIAN** o actualmente lo llaman **RASPBERRY PI OS**
 
 Hay dos opciones, elige la que quieras (nuestra preferida es la A):
 
@@ -19,7 +19,6 @@ Con esta opción no tienes que encender la Rasbperry.
 Con esta opción SI que tienes que encender la Rasbperry con pantalla, teclado y ratón
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vR4wwk8BwdSEgk-aTQ_xgvrQYJ-cr2QhN_35Q-mYJxYedhT5P-vF6UkDbSsHJ5I_zLS7IqBirdNfI4t/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
+o sigue las instrucciones generales de arrancar un equipo desde un pincho USB:
 
-
-
-
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSvr4JxqRNkTwI0mcFJdfbIe5BtDpSGyLO4ucyAyk65f3zXsFa3zxIyFZiPcqRuv_2YEfrGY39SFVi0/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
