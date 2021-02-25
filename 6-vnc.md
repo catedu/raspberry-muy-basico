@@ -5,7 +5,7 @@ Con este minilibro ya hemos aprendido a:
 * Conectarnos con la RASPBERRY via:
     * Comandos con SSH
     * Gráfica con VNC
-    
+
 Ahora toca otra aventura, con esta base ya podemos programar la Raspberry
 ##¿Qué ventaja tiene?
 La principal ventaja de hacer robótica con la Raspberry es que **PROGRAMAMOS EN EL MISMO ROBOT** para que veas la diferencia:
@@ -17,27 +17,27 @@ Otras ventajas es que al ser un ordenador en sí mismo,  se puede realizar mucha
 
 Para que lo veas más claro:
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSWQY7gRe34Ji3EaKthZEvmHS6FWIjv5eN1jUr65SsBklHgC0O786dxo1fGKo4svpgZ1pz0i7k1Qiuh/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSWQY7gRe34Ji3EaKthZEvmHS6FWIjv5eN1jUr65SsBklHgC0O786dxo1fGKo4svpgZ1pz0i7k1Qiuh/embed?start=false&loop=false&delayms=3000" frameborder="0" width="100%" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 ##Nuestra propuesta:
 Hemos pensado las siguientes opciones:
 - Propuesta A: Pibrella. Muy básico con Scratch.
-- Propuesta B: Alphabot. Avanzado con Python.
+- Propuesta B: Rover marciano Alphabot. Avanzado con Python.
 
 ###Propuesta A. PIBRELLA Robot muy básico CON SCRATCH
 * [CURSO EN AULARAGÓN](https://catedu.github.io/pibrella/)
-* Programación con **Scratch** 
+* Programación con **Scratch**
     * Pondremos una shield sencilla educativa [Pibrella](http://pibrella.com/)
     * Haremos pequeño coche teledirigido
 
 ![](/assets/pibrella-pequeño.gif)
 
-###Propuesta B ALPHABOT Programación con Python
-* [CURSO EN AULARAGON](https://catedu.github.io/alphabot/)
+###Propuesta B ROVER MARCIANO ALPHABOT Programación con Python
+* [CURSO EN AULARAGON](https://catedu.github.io/rover-marciano-alphabot/)
 * Programación con **Python**
     * Utilizaremos un robot [AlphaBot](https://www.waveshare.com/wiki/AlphaBot) con webcam
-    
-![](/assets/alphabot.png)
+
+![](https://catedu.github.io/rover-marciano-alphabot/assets/apphabot1.png)
 
 ##Fuera de nuestra propuesta
 
